@@ -35,3 +35,12 @@ This is a sophomore level course where students implement programs in ARM assemb
 | Lab 6 | This lab reads in 4 sets of integers, where each integer is the number of coins (pennies, nickles, dimes, quarters) saved each week, and then prints out the yearly savings | 
 | Lab 7 | This lab asks the user for two x values and a number of rows, then evaluates the function f(x) = (x^2 - 3x - 2) / (x^2 - 4) at a number of points, and then outputs a table of values for the function.
 | Lab 8 | This lab is an introduction to GPIO, where the user has 3 buttons and 3 LED's.  The buttons increment, reset, and decrement the counter, and the LED's output the low 3 bits of the count.  
+
+#### CSC 317 - Computer Organization and Architecture
+This course is an introduction to computer hardware.  It provides students with a historical background in computing.  Topics include Error Correcting Codes, Computer Emulation, and hardware implementaiton of assembly instructions.
+
+#### CSC 413 - Cryptography
+This coures is an advanced course in cryptography from a mathematical standpoint.  Topics include classical cryptosystems (Caesar, Vigenere, Playfair, ENIGMA), symmetric-key cryptosystems (DES, AES), Public-Key Cryptography (RSA, Pohlig-Hellman, ElGamal), Secure Hashing, and Security Protocalls.  The coures also briefly covers attacking cryptosystems.
+
+#### CSC 461 - Programming Languages
+This course is an introduction to the study of programming lanagues.  The first set of material is over programming language design.  Second, the course covers programming language paradigms.  Topics include formal languages, automata, parsing and compiling, data abstraction, variable binding, block-structured languages, OOP, functional programming, and parallelism.
