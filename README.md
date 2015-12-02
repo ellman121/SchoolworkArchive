@@ -23,7 +23,7 @@ This is a sophomore level course desigend to introduce basic data structures and
 | Set-Union Timing | This program uses three methods to find the union of two sets, and outputs the time difference between them.  The methods are bubble-sort style search, the merge algorithm from merge-sort, and hash table insert/collision.|
 
 #### CSC 314 - Assembly Language
-This is a sophomore level course where students implement programs in ARM assembly, and use a Raspbery Pi for debugging/testing.  Topics range include ARM architecture, and both fixed and floating point arithmetic.
+This is a sophomore level course where students implement programs in ARM assembly, and use a Raspberry Pi for debugging/testing.  Topics range include ARM architecture, and both fixed and floating point arithmetic.
 
 | Program Name | Description |
 |------------- | ----------- |
@@ -37,10 +37,10 @@ This is a sophomore level course where students implement programs in ARM assemb
 | Lab 8 | This lab is an introduction to GPIO, where the user has 3 buttons and 3 LED's.  The buttons increment, reset, and decrement the counter, and the LED's output the low 3 bits of the count.  
 
 #### CSC 317 - Computer Organization and Architecture
-This course is an introduction to computer hardware.  It provides students with a historical background in computing.  Topics include Error Correcting Codes, Computer Emulation, and hardware implementaiton of assembly instructions.
+This course is an introduction to computer hardware.  It provides students with a historical background in computing.  Topics include Error Correcting Codes, Computer Emulation, and hardware implementation of assembly instructions.
 
 #### CSC 413 - Cryptography
 This coures is an advanced course in cryptography from a mathematical standpoint.  Topics include classical cryptosystems (Caesar, Vigenere, Playfair, ENIGMA), symmetric-key cryptosystems (DES, AES), Public-Key Cryptography (RSA, Pohlig-Hellman, ElGamal), Secure Hashing, and Security Protocalls.  The coures also briefly covers attacking cryptosystems.
 
 #### CSC 461 - Programming Languages
-This course is an introduction to the study of programming lanagues.  The first set of material is over programming language design.  Second, the course covers programming language paradigms.  Topics include formal languages, automata, parsing and compiling, data abstraction, variable binding, block-structured languages, OOP, functional programming, and parallelism.
+This course is an introduction to the study of programming languages.  The first set of material is over programming language design.  Second, the course covers programming language paradigms.  Topics include formal languages, automata, parsing and compiling, data abstraction, variable binding, block-structured languages, OOP, functional programming, and parallelism.

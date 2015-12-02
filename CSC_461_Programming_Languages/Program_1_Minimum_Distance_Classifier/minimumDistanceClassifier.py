@@ -226,6 +226,7 @@ def SampleClassifier(dataset, filename):
     # Guesses contains the guess class for each sample
     # numberCorrect contains the number of correct guesses for each class
     # classMembershipCount contains the number of members in each class (index = class)
+    outputToConsole(classList, dataset, classMembershipCount, numberCorrect)
 
 def countClassMembershpip(dataset):
     '''
@@ -270,8 +271,6 @@ def read_csv(filename):
 
     return dataset
 
-if __name__ == "__main__":
-    filename = sys.argv[1]
-    dataset = read_csv(sys.argv[1])
-
-    SampleClassifier(dataset, sys.argv[1])
+filename = sys.argv[1]
+dataset = read_csv(sys.argv[1])
+SampleClassifier(dataset, sys.argv[1])
