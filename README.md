@@ -39,6 +39,11 @@ This is a sophomore level course where students implement programs in ARM assemb
 #### CSC 317 - Computer Organization and Architecture
 This course is an introduction to computer hardware.  It provides students with a historical background in computing.  Topics include Error Correcting Codes, Computer Emulation, and hardware implementation of assembly instructions.
 
+| Program Name | Description |
+|----------------------|----------------------------------------------------------------------------|
+| HammingCode | This program allows the user to input binary strings and run Hamming 7/11 or 11/15 error correction on the strings. |
+| 24 Bit Computer Emulator | This program allows a user to input commands from a 24-bit assembly language, and run them.  More information can be found in the included pdf file |
+
 #### CSC 413 - Cryptography
 This coures is an advanced course in cryptography from a mathematical standpoint.  Topics include classical cryptosystems (Caesar, Vigenere, Playfair, ENIGMA), symmetric-key cryptosystems (DES, AES), Public-Key Cryptography (RSA, Pohlig-Hellman, ElGamal), Secure Hashing, and Security Protocalls.  The coures also briefly covers attacking cryptosystems.
 
