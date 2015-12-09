@@ -59,8 +59,8 @@ This coures is an advanced course in cryptography from a mathematical standpoint
 | Program Name | Description |
 |----------------------|----------------------------------------------------------------------------|
 | Affine Cihper | This program reads in command line arguments consisting of alpha and beta, and then does an affine encryption on the input text where each letter x is mapped such that x -> &#945; x + &#946; . |
-| Baby Step Giant Step | This program reads in an alpha value, beta value, and prime number from an input file, and then solves for x where x = &#945;^x = &#946; (mod p).  In particular, this program solves the Discrete Logarithm problem using the Baby Step, Giant Step Algorithm.|
-| Mini_DES | This program is an implementation of the Mini DES algorithm found in the fourth chapter of *Introduction to Cryptography with Coding Theory* by Trapp and Washington.|
+| BabyStep GiantStep | This program reads in an alpha value, beta value, and prime number from an input file, and then solves for x where x = &#945;^x = &#946; (mod p).  In particular, this program solves the Discrete Logarithm problem using the Baby Step, Giant Step Algorithm.|
+| Mini DES | This program is an implementation of the Mini DES algorithm found in the fourth chapter of *Introduction to Cryptography with Coding Theory* by Trapp and Washington.|
 | Playfair Cipher | This program does playfair encryption on the provided input text in the command line arguments.|
 
 #### CSC 461 - Programming Languages
