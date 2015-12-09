@@ -59,8 +59,9 @@ This coures is an advanced course in cryptography from a mathematical standpoint
 | Program Name | Description |
 |----------------------|----------------------------------------------------------------------------|
 | Affine Cihper | This program reads in command line arguments consisting of alpha and beta, and then does an affine encryption on the input text where each letter x is mapped such that x -> &#945; x + &#946; . |
-| Program 2 | This program reads in a cases from an input file, where each case consists of a set of points defining a convex polygon.  For each case, the program outpus the x coordinate where a verticle line will cut the input shape in half by area.  |
-| Program 3 | This program reads in a set of real values from an input case, and then outputs the nth FFT of that data's 5 highest peaks.  |
+| Baby_Step_Giant_Step | This program reads in an alpha value, beta value, and prime number from an input file, and then solves for x where x = &#945;^x = &#946; (mod p).  In particular, this program solves the Discrete Logarithm problem using the Baby Step, Giant Step Algorithm.|
+| Mini_DES | This program is an implementation of the Mini DES algorithm found in the fourth chapter of **Introduction to Cryptography with Coding Theory** by Trapp and Washington.|
+| Playfair Cipher | This program does playfair encryption on the provided input text in the command line arguments.|
 
 #### CSC 461 - Programming Languages
 This course is an introduction to the study of programming languages.  The first set of material is over programming language design.  Second, the course covers programming language paradigms.  Topics include formal languages, automata, parsing and compiling, data abstraction, variable binding, block-structured languages, OOP, functional programming, and parallelism.
