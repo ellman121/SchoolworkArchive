@@ -56,5 +56,11 @@ This course is an intermediate course in algorithm analysis, where students stud
 #### CSC 412 - Cryptography
 This coures is an advanced course in cryptography from a mathematical standpoint.  Topics include classical cryptosystems (Caesar, Vigenere, Playfair, ENIGMA), symmetric-key cryptosystems (DES, AES), Public-Key Cryptography (RSA, Pohlig-Hellman, ElGamal), Secure Hashing, and Security Protocalls.  The coures also briefly covers attacking cryptosystems.
 
+| Program Name | Description |
+|----------------------|----------------------------------------------------------------------------|
+| Affine Cihper | This program reads in command line arguments consisting of alpha and beta, and then does an affine encryption on the input text where each letter x is mapped such that x -> &#945; x + &#946; . |
+| Program 2 | This program reads in a cases from an input file, where each case consists of a set of points defining a convex polygon.  For each case, the program outpus the x coordinate where a verticle line will cut the input shape in half by area.  |
+| Program 3 | This program reads in a set of real values from an input case, and then outputs the nth FFT of that data's 5 highest peaks.  |
+
 #### CSC 461 - Programming Languages
 This course is an introduction to the study of programming languages.  The first set of material is over programming language design.  Second, the course covers programming language paradigms.  Topics include formal languages, automata, parsing and compiling, data abstraction, variable binding, block-structured languages, OOP, functional programming, and parallelism.
