@@ -44,6 +44,15 @@ This course is an introduction to computer hardware.  It provides students with 
 | HammingCode | This program allows the user to input binary strings and run Hamming 7/11 or 11/15 error correction on the strings. |
 | 24 Bit Computer Emulator | This program allows a user to input commands from a 24-bit assembly language, and run them.  More information can be found in the included pdf file |
 
+#### CSC 372 - Analysis of Algorithms
+This course is an intermediate course in algorithm analysis, where students study a wide range of algorithms and topics.  Specifcaly, Computational Geometry, Divide and Conquer Algorithms, Discrete and Fast Fourier Transforms, and Amortized Complexity Analysis are covered in detail.
+
+| Program Name | Description |
+|----------------------|----------------------------------------------------------------------------|
+| Program 1 | This program reads in a text file and then for each case in the text file, outputs whether or not the string is composed of repeated strings or characters. |
+| Program 2 | This program reads in a cases from an input file, where each case consists of a set of points defining a convex polygon.  For each case, the program outpus the x coordinate where a verticle line will cut the input shape in half by area.  |
+| Program 3 | This program reads in a set of real values from an input case, and then outputs the nth FFT of that data's 5 highest peaks.  |
+
 #### CSC 412 - Cryptography
 This coures is an advanced course in cryptography from a mathematical standpoint.  Topics include classical cryptosystems (Caesar, Vigenere, Playfair, ENIGMA), symmetric-key cryptosystems (DES, AES), Public-Key Cryptography (RSA, Pohlig-Hellman, ElGamal), Secure Hashing, and Security Protocalls.  The coures also briefly covers attacking cryptosystems.
 
