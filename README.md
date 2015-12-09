@@ -65,3 +65,9 @@ This coures is an advanced course in cryptography from a mathematical standpoint
 
 #### CSC 461 - Programming Languages
 This course is an introduction to the study of programming languages.  The first set of material is over programming language design.  Second, the course covers programming language paradigms.  Topics include formal languages, automata, parsing and compiling, data abstraction, variable binding, block-structured languages, OOP, functional programming, and parallelism.
+
+| Program Name | Description |
+|----------------------|----------------------------------------------------------------------------|
+| Minimum Distance Classifier | This is a python program to read in a dataset (csv format) where the class is the 2nd column and then try to classify each object by the minimum distance to a centroid. |
+| Paint in Java | This is a primitave version of MS Paint written in Java.|
+| Family Tree | This program allows the user to input a .dat file consisting of family entries, and then query the data with functions found in genealogy.lsp |
