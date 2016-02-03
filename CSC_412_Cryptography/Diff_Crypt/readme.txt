@@ -1,0 +1,1 @@
+This program will take a input file named in.in. This file will contain 4 12 bit binary strings l1r1, l4r4, l*1r*4,l*4r*4. The program will output several potential key. Once I get the potential key, I will write the possible keys to the input file test_cast.txt. Repeat the process until there is only one possible key. 
