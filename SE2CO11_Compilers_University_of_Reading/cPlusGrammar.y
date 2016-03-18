@@ -1137,7 +1137,7 @@ int main(int argc, char const *argv[])
 
 	zerotable();
 
-	if (argc > 2)
+	if (argc >= 2)
 	{
 		while(++i < argc && argv[i][0] == '-')
 		{
@@ -1183,7 +1183,7 @@ int main(int argc, char const *argv[])
 
 		i = setSTDOUTtoFile("output.c");
 		yyparse();
-		restoreSTDOUT;
+		restoreSTDOUT(i);
 	}
 	else
 	{
