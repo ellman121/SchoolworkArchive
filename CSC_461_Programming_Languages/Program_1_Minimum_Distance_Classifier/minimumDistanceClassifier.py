@@ -271,6 +271,5 @@ def read_csv(filename):
 
     return dataset
 
-filename = sys.argv[1]
 dataset = read_csv(sys.argv[1])
 SampleClassifier(dataset, sys.argv[1])
