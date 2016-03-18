@@ -1,0 +1,8 @@
+===== Language Specifications for C+ =====
+
+C+ is essentially ANSI-C with a few additions and modifications
+
+Primarily, it allows the programmer to use C++ style "cin" and "cout" statements.  These are translated into scanf() and printf() statements accordingly in the output file.
+
+The ALIGNAS, ALIGNOF, ATOMIC, GENERIC, NORETURN, STATIC_ASSERT, THREAD_LOCAL, COMPLEX, IMAGINARY, RESTRICT, AUTO, REGISTER, INLINE, and VOLATILE tokens have all been removed.  This language is aimed at 1st semester computer science students who just need simple input and output functionality.
+
