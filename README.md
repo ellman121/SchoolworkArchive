@@ -71,3 +71,10 @@ This course is an introduction to the study of programming languages.  The first
 | Minimum Distance Classifier | This is a python program to read in a dataset (csv format) where the class is the 2nd column and then try to classify each object by the minimum distance to a centroid. |
 | Paint in Java | This is a primitave version of MS Paint written in Java.|
 | Family Tree | This program allows the user to input a .dat file consisting of family entries, and then query the data with functions found in genealogy.lsp |
+
+#### SE2CO11 - Compilers
+I took this course while studying abroad at the University of Reading.  This course focused on basic compiler techniques, including lexical analysis, parsing, code generation, TAC, Finite State Automata, and basic optimisation
+
+| Program Name | Description |
+|----------------------|----------------------------------------------------------------------------|
+| Project | This project was to make a compiler that translates from any langauge to any other language. For the project, I wrote a compiler using flex and yacc which would translate from a language I craeted, called C+, to ANSI-C. Full specifications can be found in the project folder. |
