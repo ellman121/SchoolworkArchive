@@ -78,3 +78,12 @@ I took this course while studying abroad at the University of Reading.  This cou
 | Program Name | Description |
 |----------------------|----------------------------------------------------------------------------|
 | Project | This project was to make a compiler that translates from any langauge to any other language. For the project, I wrote a compiler using flex and yacc which would translate from a language I craeted, called C+, to ANSI-C. Full specifications can be found in the project folder. |
+
+#### SE2OS11 - Operating Systems
+I took this course while studying abroad at the University of Reading.  This folder contains all of the practicals (labs) from my semeseter, as well as the .tex files and pdf of the final write up.  See below for descriptions of each practical.
+
+| Program Name | Description |
+|----------------------|----------------------------------------------------------------------------|
+| Pratical 1 | This practical involved students writing C code which would use fork() to create new processes, and then pipe() to have the processes link input and output to each other.  The final result was a c program which would be the equivalent to "$ cat /etc/passwd \| cut -f1 -d: \| sort" |
+| Pratical 2 | This practical required students to write c code both as multi-process (using fork()) and multi-threaded (using pthreads) in order to do a large computation.  The pthread version of the program required students to use semaphores to manage shared memory |
+| Pratical 3 | This practical had students implement inter-process communication using message queues and signals on Linux.  The practical is dedicated to Leonard Nimoy - RIP. |
