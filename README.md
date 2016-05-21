@@ -1,4 +1,4 @@
-# SchoolworkArchive - OPUS IN PERFECTUS
+# SchoolworkArchive - OPUS IN PROFECTUS
 
 ## This is a collection of all my schoolwork done at SDSMT
 
