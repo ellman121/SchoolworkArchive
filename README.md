@@ -58,7 +58,7 @@ This coures is an advanced course in cryptography from a mathematical standpoint
 
 | Program Name | Description |
 |----------------------|----------------------------------------------------------------------------|
-| Affine Cihper | This program reads in command line arguments consisting of alpha and beta, and then does an affine encryption on the input text where each letter x is mapped such that x -> &#945; x + &#946; . |
+| Affine Cipher | This program reads in command line arguments consisting of alpha and beta, and then does an affine encryption on the input text where each letter x is mapped such that x -> &#945; x + &#946; . |
 | BabyStep GiantStep | This program reads in an alpha value, beta value, and prime number from an input file, and then solves for x where x = &#945;^x = &#946; (mod p).  In particular, this program solves the Discrete Logarithm problem using the Baby Step, Giant Step Algorithm.|
 | Mini DES | This program is an implementation of the Mini DES algorithm found in the fourth chapter of *Introduction to Cryptography with Coding Theory* by Trapp and Washington.|
 | Playfair Cipher | This program does playfair encryption on the provided input text in the command line arguments.|
@@ -69,7 +69,7 @@ This course is an introduction to the study of programming languages.  The first
 | Program Name | Description |
 |----------------------|----------------------------------------------------------------------------|
 | Minimum Distance Classifier | This is a python program to read in a dataset (csv format) where the class is the 2nd column and then try to classify each object by the minimum distance to a centroid. |
-| Paint in Java | This is a primitave version of MS Paint written in Java.|
+| Paint in Java | This is a primitave version of a 'Paint' program written in Java. |
 | Family Tree | This program allows the user to input a .dat file consisting of family entries, and then query the data with functions found in genealogy.lsp |
 
 #### SE2CO11 - Compilers
