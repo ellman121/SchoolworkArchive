@@ -63,6 +63,15 @@ This coures is an advanced course in cryptography from a mathematical standpoint
 | Mini DES | This program is an implementation of the Mini DES algorithm found in the fourth chapter of *Introduction to Cryptography with Coding Theory* by Trapp and Washington.|
 | Playfair Cipher | This program does playfair encryption on the provided input text in the command line arguments.|
 
+#### CSC 433 - Computer Graphics
+Computer Graphics is an intermediate course in graphics technology.  The class teaches low-level graphics concetps, such as efficient line and shape drawing (e.g. Bresenham's Line Algorithm, Midpoint Circle Algorithm, polygon fill algorithms, etc.) as well as geometric transforms, animation, and texture mapping.  The class uses OpenGL and GLUT to for all assignments.  The class also teaches new concepts such as GPGPU (General Purpose processing on GPU) using CUDA.
+
+| Program Name | Description |
+|----------------------|----------------------------------------------------------------------------|
+| mandelbrotSet | This program displays an interactive window displaying the Mandelbrot Set <https://en.wikipedia.org/wiki/Mandelbrot_set>.  This code uses Nvidia CUDA for it's processing, and must be compiled on a Linux machine with an Nvidia GTX 500 series or above using nvcc as the compiler.  See the makefile. |
+| solarSystemulator | This is a solar system simulation in 3D.  The user is able to fly around and see different planets.  The nubmer keys 1-4 are used to select the display mode (wireframe, flat shading, smooth shading, texture mapping), the 'L' key will toggle lighting, and WASD is used for movement. |
+| tankGame | Everybody loves the clasic game 'Tanks'.   This is an OpenGL implementation of it, with a distinct Schwarzenegger twist. |
+
 #### CSC 461 - Programming Languages
 This course is an introduction to the study of programming languages.  The first set of material is over programming language design.  Second, the course covers programming language paradigms.  Topics include formal languages, automata, parsing and compiling, data abstraction, variable binding, block-structured languages, OOP, functional programming, and parallelism.
 

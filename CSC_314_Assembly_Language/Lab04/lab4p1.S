@@ -17,9 +17,6 @@ str4:	.asciz "%4096c"				/* testing string */
 
 teststr: .asciz "This is the end of checksum"
 	.align 2
-	
-i:	.word 0					/* int i = 0 */
-sum:	.word 0					/* int sum = 0 */
 
 .text
 
