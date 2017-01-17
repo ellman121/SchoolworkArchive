@@ -1,6 +1,6 @@
 # SchoolworkArchive - OPUS IN PROFECTUS
 
-## This is a collection of all my schoolwork done at SDSMT
+## This is a collection of all my schoolwork
 
 ### Contents:
 
