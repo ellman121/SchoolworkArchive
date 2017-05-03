@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- include.pug - Includes libraries and stuff-->
+    <!-- UTF-8 is master text encoding-->
+    <meta charset="UTF-8">
+    <!-- CSS Libraries-->
+    <link href="css/normalize.css" rel="stylesheet">
+    <link href="css/skeleton.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <!-- CSS Files-->
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/loader.css" rel="stylesheet">
+    <!-- Javascript Libraries-->
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/jquery-pjax.js"></script>
+    <!-- Javascript files-->
+    <script src="js/app.js"></script>
+    <!-- Show things-->
+    <title>Advisinator</title>
+  </head>
+  <body>
+    <div class="loader" id="loadingAnimationID"></div>
+    <div class="container" id="bodyContainer">
+      <section class="header"><img class="u-full-width" src="images/SDSMT-Logo.jpg">
+        <h2>Welcome to the Advising Tool</h2>
+      </section>
+      <hr>
+      <section class="main">
+        <form class="u-full-width" id="loginForm">
+          <div class="row">
+            <div class="six columns">
+              <label for="stuIDInput">Student ID</label>
+              <input class="u-full-width" id="stuIDInput" type="text" name="stuIDInput" placeholder="1234567">
+            </div>
+            <div class="six columns">
+              <label for="password">Password</label>
+              <input class="u-full-width" id="passIDInput" type="password" name="passIDInput" placeholder="*********">
+            </div>
+          </div>
+          <div class="row">
+            <input class="button-primary abs rightside" id="submitButton" type="submit" name="btn" value="submit">
+          </div>
+        </form>
+      </section>
+      <script>setupLogin();</script>
+      <div id="toaster">You entered invalid data</div>
+    </div>
+  </body>
+</html>

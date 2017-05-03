@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding "utf-8"?>
+
+<!-- studentinfo.dtd - document type definitio0n for student xml files -->
+
+<!ELEMENT student (studentid, gpa, major_gpa, completed_credits, courses)>
+<!ELEMENT studentid (#PCDATA)>
+<!ELEMENT gpa (#PCDATA)>
+<!ELEMENT major_gpa (#PCDATA)>
+<!ELEMENT completed_credits (#PCDATA)>
+<!ELEMENT courses (course+)>
+<!ELEMENT course (prefix, number, name, credits, grade)>
+<!ELEMENT prefix (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT credits (#PCDATA)>
+<!ELEMENT grade (#PCDATA)>
+
+<!ATTLIST isactive student #REQUIRED>
+<!-- usage: <student isActive = "yes"> </student> -->

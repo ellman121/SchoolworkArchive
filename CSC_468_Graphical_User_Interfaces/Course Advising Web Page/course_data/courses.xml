@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- courses.xml - a document that lists the computer courses offered by the school -->
+<!DOCTYPE courses SYSTEM "courses.dtd">
+<courses>
+
+  <!-- CSC courses at SDSM&T from 2016-17 catalog -->
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>105</number>
+    <name>Introduction to Computers</name>
+    <credits>3</credits>
+    <offered>every fall, every spring</offered>
+    <description>
+      Overview of computer applications with emphasis on word processing, spreadsheets, database, presentation tools and internet-based applications.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes>May not be used for credit toward an engineering or science degree (except Interdisciplinary Sciences and Associates of Arts).</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>110</number>
+    <name>Survey of Computer Science and Mathematics</name>
+    <credits>1</credits>
+    <offered/>
+    <description>
+      This is an introductory course for incoming freshman in Computer Science or Mathematics that provides a survey of the major areas in the computing profession along with ethical standards that are used. When applicable, guest lectures will be arranged to illuminate different areas of study.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes>This course is cross-listed with MATH 110.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>111</number>
+    <name>Introduction to Computer Programming</name>
+    <credits>2</credits>
+    <offered/>
+    <description>
+      This is an introduction to computer programming for students with little or no programming experience. Students will learn essential techniques on using a computer to solve problems and the fundamental constructs that are used in computer programs.
+    </description>
+    <prereq/>
+    <coreq>MATH 102</coreq>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>150</number>
+    <name>Computer Science 1</name>
+    <credits>2</credits>
+    <offered/>
+    <description>
+      An introduction to computer programming. Focus on problem solving, algorithm development, design, and programming concepts. Topics include sequence, selection, repetition, functions, and arrays.
+    </description>
+    <prereq/>
+    <coreq>MATH 123</coreq>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>170</number>
+    <name>Programming for Engineers and Scientists</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      This course teaches engineering and science students how to write software to solve problems in their disciplines. The emphasis on mathematics, numerical methods, and development for embedded systems will prepare students to incorporate computer solutions into courses in their majors. Topics will include an overview of the software development process, development environments, algorithm development, control structures, internal and external storage, testing, and debugging. Additional topics may include programming robots and processing sensor data.
+    </description>
+    <prereq/>
+    <coreq>MATH 123</coreq>
+    <notes/>
+  </course>
+
+  <course isactive="no">
+    <prefix>CSC</prefix>
+    <number>210</number>
+    <name>Web Authoring</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      This course focuses on techniques and methods for writing specifically for the internet. Topics will include designing and creating documents for the World Wide Web, design considerations, and publishing and maintaining websites. Students will use HTML web authoring software, and other software for web development.
+    </description>
+    <prereq>CSC 105</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>250</number>
+    <name>Computer Science 2</name>
+    <credits>4</credits>
+    <offered/>
+    <description>
+      Problem solving, algorithm design, standards of program style, debugging and testing. Extension of the control structures and data structures of the high-level language introduced in CSC 150/150L. Elementary data structures and basic algorithms that include sorting and searching. Topics include more advanced treatment of functions, data types such as arrays and structures, and files.
+    </description>
+    <prereq>CSC 150 with C or better</prereq>
+    <coreq/>
+    <notes> New course number is CSC 215. </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>251</number>
+    <name>Finite Structures</name>
+    <credits>4</credits>
+    <offered/>
+    <description>
+      Selected topics from Boolean algebra, set theory, congruencies, equivalence relations, complexity, graph theory, combinatorics, induction, difference equations, and logic.
+    </description>
+    <prereq>CSC 150, MATH 123</prereq>
+    <prereq>CSC 170, MATH 123</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>291</number>
+    <name>Independent Study</name>
+    <credits>1-5</credits>
+    <offered/>
+    <description>
+      Includes directed study, problems, readings, directed readings, special problems and special projects. Students complete individualized plans of study which include significant one-on-one student-teacher involvement. The faculty member and students negotiate the details of the study plans. Meeting frequency depends on the requirements of the topic.
+    </description>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>May be repeated to a total of 5 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>292</number>
+    <name>Topics</name>
+    <credits>1-5</credits>
+    <offered/>
+    <description>
+      Includes current topics, advanced topics and special topics. A course devoted to a particular issue in a specified field. Course content is not wholly included in the regular curriculum. Guest artists or experts may serve as instructors.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes>May be repeated to a total of 6 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>300</number>
+    <name>Data Structures</name>
+    <credits>4</credits>
+    <offered/>
+    <description>
+      A systematic study of data structures and the accompanying algorithms used in computing problems; structure and use of storage; methods of representing data; techniques for implementing data structures; linear lists; stacks; queues; trees and tree traversal; linked lists; and other structures.
+    </description>
+    <prereq>CSC 250 with C or better, CSC 251</prereq>
+    <coreq/>
+    <notes> New course number is CSC 315. </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>314</number>
+    <name>Assembly Language</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      A thorough introduction to assembly language programming and processor architecture. A study of low-level programming techniques, and the layout of a typical computer. The student will gain insight into the memory layout, registers, run-time stack, and global data segment of a running program.
+    </description>
+    <prereq>CSC 250 with C or better</prereq>
+    <coreq/>
+    <notes>This course is cross listed with CENG 314. Graduation credit will not be allowed for both this course and CENG 314.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>317</number>
+    <name>Computer Organization and Architecture</name>
+    <credits>3</credits>
+    <offered>every fall</offered>
+    <description>
+      A course in computer organization with emphasis on the hierarchical structure of computer systems. Covers such topics as: components of computer systems and their configuration, design of basic digital circuits, the microprogram level, the conventional machine level, the operating system level, assembly language, addressing modes, interpreters/translators, computer arithmetic.
+    </description>
+    <prereq>CSC 314 with C or better, CSC 251</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>372</number>
+    <name>Analysis of Algorithms</name>
+    <credits>3</credits>
+    <offered>every fall</offered>
+    <description>
+      Design and analysis of algorithms for numeric and nonnumeric problems, general problem-solving approaches, theory of computation. Topics will be selected from searching, sorting, graph algorithms, numerical algorithms, geometric algorithms, cryptography, and parallel algorithms.
+    </description>
+    <prereq>MATH 125</prereq>
+    <prereq>CSC 300 with C or better</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>391</number>
+    <name>Independent Study</name>
+    <credits>1-5</credits>
+    <offered/>
+    <description>
+      Includes directed study, problems, readings, directed readings, special problems and special projects. Students complete individualized plans of study which include significant one-on-one student-teacher involvement. The faculty member and students negotiate the details of the study plans. Meeting frequency depends on the requirements of the topic.
+    </description>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>May be repeated to a total of 5 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>392</number>
+    <name>Topics</name>
+    <credits>1-5</credits>
+    <offered/>
+    <description>
+      Includes current topics, advanced topics and special topics. A course devoted to a particular issue in a specified field. Course content is not wholly included in the regular curriculum. Guest artists or experts may serve as instructors.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes>May be repeated to a total of 6 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>410</number>
+    <name>Parallel Computing</name>
+    <credits>3</credits>
+    <offered>even fall</offered>
+    <description>
+      The fundamental ideas and issues involved in programming and using parallel computers. A survey of modern architectures and operating systems. Parallel programming applications in business, economic modeling, and science. The School of Mines emphasizes scientific applications.
+    </description>
+    <prereq>CSC 300 with C or better</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 510 will be held to a higher standard than those enrolled in CSC 410.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>412</number>
+    <name>Cryptography</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      This course provides an introduction to cryptography and the mathematics behind current encryption algorithms. It covers classical cryptosystems, private-key cryptosystems (such as DES and AES), and public-key cryptosystems (such as RSA).
+    </description>
+    <prereq>MATH 413, CSC 250</prereq>
+    <prereq>CSC 250</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 512 will be held to a higher standard than those enrolled in CSC 412.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>414</number>
+    <name>Introduction to Computer Vision</name>
+    <credits>3</credits>
+    <offered>odd fall</offered>
+    <description>
+      Introductory course in computer vision. This course covers principles of image formation, local feature analysis, multi-view geometry, image warping and stitching, structure from motion, and visual recognition. We also touch upon related topics in signal and image processing including convolution, image pyramids, frequency domain analysis, and gradient-based analysis techniques.
+    </description>
+    <prereq>CSC 300</prereq>
+    <prereq>EE 313</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 514 will be held to a higher standard than those enrolled in CSC 414. This course is cross-listed with CENG 414/514.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>415</number>
+    <name>Introduction to Robotics</name>
+    <credits>4</credits>
+    <offered>every fall</offered>
+    <description>
+      An introduction to mechatronic systems and embedded systems for robotics. This course will cover the basics required for autonomous mobile robotics. The course will begin with a survey of existing systems and some background mathematics. Core course topics will include electromechanical components, electronics for motor control, sensors and instrumentation, mobile robotic kinematics and movement, microcontrollers, real time computing, and embedded system design and development. Course projects will include student teams building task oriented mobile robots with emphasis on the hardware development.
+    </description>
+    <prereq>CSC 300 with C or better</prereq>
+    <notes>Students enrolled in CSC 515/515L will be held to a higher standard than those enrolled in CSC 415/415L. This course is cross listed with CENG 415/415L/515/515L.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>416</number>
+    <name>Advanced Algorithms for Robotics</name>
+    <credits>3</credits>
+    <offered>even spring</offered>
+    <description>
+      Theory and application of advanced methods for intelligent robots. Topics may include but are not limited to: cooperative mobile robotics, mathematical and probabilistic models for complex tasks, planning, machine learning, humanoid robotics, human-robot interfaces, robot hardware and middleware.
+    </description>
+    <prereq>CSC 300 with C or better</prereq>
+    <notes>Students enrolled in CSC 516 will be held to a higher standard than those enrolled in CSC 416.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>426</number>
+    <name>Cybersecurity</name>
+    <credits>3</credits>
+    <offered>odd spring</offered>
+    <description>
+      The course provides an introduction to the theory and concepts of computer security in cyberspace. The course will discuss security issues and policies with regard to cyber infrastructure including software development, data storage, operating systems, networks, multimedia processing as well as the use of encryption. Vulnerability assessment and implementation of secure computing systems will be explored in group projects.
+    </description>
+    <prereq>CSC 300 with C or better</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 526 will be held to a higher standard than those enrolled in CSC 426.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>433</number>
+    <name>Computer Graphics</name>
+    <credits>3</credits>
+    <offered>even fall</offered>
+    <description>
+      Graphical programming concepts. Display media and device characteristics. Point, line. and circle plotting. Coordinate systems and transformations. Polygon clipping and filling. Spline methods, hidden surface elimination, and shading.
+    </description>
+    <prereq>CSC 300 with C or better, MATH 225</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 533 will be held to a higher standard than those enrolled in CSC 433.</notes>
+  </course>
+
+  <course isactive="no">
+    <prefix>CSC</prefix>
+    <number>440</number>
+    <name>Advanced Digital Systems</name>
+    <credits>4</credits>
+    <offered/>
+    <description>
+      Memory and disk systems, bus and I/O systems, parallel processing. Applications of digital systems in real-time processing.
+    </description>
+    <prereq>CSC 317</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>Graduation credit will not be allowed for both this course and CENG 446/446L.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>441</number>
+    <name>Networking and Data Communications</name>
+    <credits>3</credits>
+    <offered>odd fall</offered>
+    <description>
+      This course is the study of the principles and design of computer networks, their protocols, and application programs. The course has equal emphasis on practical experience as well as theoretical foundations. The course focuses on understanding the fundamental concepts in design and implementation of computer communication networks, particularly on analysis and development of the software architecture of the protocol stack, and network programming. The topics include layered network architectures, network programming interfaces (e.g., sockets), TCP/IP networking, packet switching, network routing, rate and congestion control, Quality-of-Service, wireless communications, and fundamentals of network security.
+    </description>
+    <prereq>CSC 300</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 541 will be held to a higher standard than those enrolled in CSC 441.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>442</number>
+    <name>Digital Image Processing</name>
+    <credits>3</credits>
+    <offered>odd spring</offered>
+    <description>
+      Introduction to digital image processing and computer vision, including image digitization and display, image enhancement and restoration, frequency domain techniques using the Fourier transform, image encoding, segmentation, and feature detection.
+    </description>
+    <prereq>CSC 300 with C or better, MATH 125</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 542 will be held to a higher standard than those enrolled in CSC 442.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>445</number>
+    <name>Introduction to Theory of Computation</name>
+    <credits>3</credits>
+    <offered>even spring</offered>
+    <description>
+      Introduction to a series of models for computation and their relationship to formal languages that are useful in the definition of programming languages along with a look at the theoretical limits of computers. Topics include finite and pushdown automata, Turing machines, grammars, decidability and computational complexity.
+    </description>
+    <prereq>CSC 251</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 545 will be held to a higher standard than those enrolled in CSC 445.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>447</number>
+    <name>Artificial Intelligence</name>
+    <credits>3</credits>
+    <offered>even spring</offered>
+    <description>
+      Concepts in artificial intelligence: programming in languages such as Prolog or LISP; knowledge representation; search algorithms
+    </description>
+    <prereq>CSC 300 with C or better</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 547 will be held to a higher standard than those enrolled in CSC 447.</notes>
+  </course>
+
+  <course isactive="no">
+    <prefix>CSC</prefix>
+    <number>448</number>
+    <name>Machine Learning</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      A systematic study of the theory and algorithms that constitute machine learning. It covers learning based on examples including genetic algorithms, case-based reasoning, decision trees, and Bayesian methods
+    </description>
+    <prereq>CSC 300 with C or better</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 548 will be held to a higher standard than those enrolled in CSC 448.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>449</number>
+    <name>Advanced Topics in Artificial Intelligence</name>
+    <credits>3</credits>
+    <offered>odd spring</offered>
+    <description>
+      This course will cover advanced topics in artificial intelligence, such as: pattern recognition, neural networks, computational neuroscience, evolutionary computing, immunocomputing, swarm intelligence, machine learning, Markov decision processes, reinforcement learning, probabilistic reasoning, fuzzy logic, expert systems, and intelligent agents.
+    </description>
+    <prereq>CSC 300 with C or better, MATH 225</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 549 will be held to a higher standard than those enrolled in CSC 449.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>454</number>
+    <name>Data Mining Theory</name>
+    <credits>3</credits>
+    <offered>even spring</offered>
+    <description>
+      A study of the fundamental ideas and issues involved in predicting and describing data. A survey of modern techniques used for converting raw data into useful information. The techniques and theory covered will involve: classification, clustering, association analysis and anomaly detection. The course will emphasize scientific applications, with the goal of extracting information from a data set and transforming it to useful information through the steps of: Preprocessing, Data Mining and Postprocessing.
+    </description>
+    <prereq>CSC 250 with C or better</prereq>
+    <coreq>MATH 381</coreq>
+    <notes>Students enrolled in CSC 554 will be held to a higher standard than those enrolled in CSC 454.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>456</number>
+    <name>Operating Systems</name>
+    <credits>4</credits>
+    <offered>every spring</offered>
+    <description>
+      A study of the functions and structures associated with operating systems with respect to process management, memory management, auxiliary storage management, and processor management. Topics include concurrent and distributed computing, deadlock, real and virtual memory, job and processor scheduling, security and protection
+    </description>
+    <prereq>CSC 300 with C or better, CSC 317</prereq>
+    <coreq/>
+    <notes>Graduation credit will not be allowed for both this course and CENG 456.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>461</number>
+    <name>Programming Languages</name>
+    <credits>4</credits>
+    <offered>every fall</offered>
+    <description>
+      This course consists of two parts. The first part introduces how programming languages are designed, including an introduction to the concepts of parsing and compiling. Issues related to implementation such as type checking, binding, and memory management are discussed. Secondly, the course will survey the spectrum of programming languages paradigms, including traditional imperative, object oriented, functional, and logic languages
+    </description>
+    <prereq>CSC 300 with C or better</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="no">
+    <prefix>CSC</prefix>
+    <number>463</number>
+    <name>Data Communications</name>
+    <credits>4</credits>
+    <offered/>
+    <description>
+      A study of the principles of data communications, computer networks, and open systems, following the outline provided by the ISO/OSI model
+    </description>
+    <prereq>CSC 250</prereq>
+    <coreq/>
+    <notes>Students enrolled in CSC 563 will be held to a higher standard than those enrolled in CSC 463.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>464</number>
+    <name>Senior Design I</name>
+    <credits>2</credits>
+    <offered>every fall</offered>
+    <description>
+       This is a team-based project-design course. This course will focus on the design process and culminate with the faculty approval of design projects. Typical topics included are the development of a design document; identification of customer needs; development of specifications; consideration of alternate designs using a decision matrix; project management techniques; and legal, global, and ethical issues.
+    </description>
+    <prereq>CSC 470, CSC 484 </prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>465</number>
+    <name>Senior Design II</name>
+    <credits>2</credits>
+    <offered>every spring</offered>
+    <description>
+       This course is a continuation of CSC 464. The student will complete the project approved in CSC 464. It will require that the students implement the design projects in a simulated industrial environment. Specific requirements may include detailed laboratory notebook, periodic written and oral progress reports, and a written and oral presentation of a final project report.
+    </description>
+    <prereq>CSC 464</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>468</number>
+    <name>Graphical User Interface Programming</name>
+    <credits>3</credits>
+    <offered>every spring</offered>
+    <description>
+      Introduction to the theory and practice of programming graphical user interfaces. Topics will include GUI design and the fundamentals of GUI programming for desktop, Web, and mobile device applications.
+    </description>
+    <prereq>CSC 461</prereq>
+    <notes>Students enrolled in CSC 568 will be held to a higher standard than those enrolled in 468.</notes>
+  </course>
+
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>470</number>
+    <name>Software Engineering</name>
+    <credits>3</credits>
+    <offered>every spring</offered>
+    <description>
+       An introduction to the software engineering process, including lifecycle phases, problem analysis, specification, project estimation and resource estimation, design, implementation, testing/maintenance, and project management. In particular, software validation and verification as well as scheduling and schedule assessment techniques will be discussed.
+    </description>
+    <coreq>CSC 484</coreq>
+    <notes> New course number is CSC 340. </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>476</number>
+    <name>Mobile Computing Development</name>
+    <credits>3</credits>
+    <offered>odd fall</offered>
+    <description>
+       This course introduces students to the major components of mobile application development. Topics will include an overview of the market, mobile development environments, designing the user interface/user experience, lifecycle considerations, MVC patterns, power, storage, and performance considerations, persistent data, location, and web services. Students will design and create applications on at least one of the dominant mobile platforms.
+    </description>
+    <prereq>CSC 468</prereq>
+    <notes>Students enrolled in CSC 576/576L will be held to a higher standard than those enrolled in CSC 476/476L.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>484</number>
+    <name>Database Management Systems</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+       The study of formalized database design. This course will focus on relational model design and the use of SQL. Students will use a modern relational database to implement designs and learn the basics of data management.
+    </description>
+    <prereq>CSC 300 with C or better</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>491</number>
+    <name>Independent Study</name>
+    <credits>1-3</credits>
+    <offered/>
+    <description>
+       Includes directed study, problems, readings, directed readings, special problems and special projects. Students complete individualized plans of study which include significant one-on-one student-teacher involvement. The faculty member and students negotiate the details of the study plans. Meeting frequency depends on the requirements of the topic.
+    </description>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>May be repeated for a total of 5 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>492</number>
+    <name>Topics</name>
+    <credits>1-3</credits>
+    <offered/>
+    <description>
+      Includes current topics, advanced topics and special topics. A course devoted to a particular issue in a specified field. Course content is not wholly included in the regular curriculum. Guest artists or experts may serve as instructors.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes>May be repeated to a total of 6 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>CSC</prefix>
+    <number>498</number>
+    <name>Undergraduate Research/Scholarship</name>
+    <credits>to be arranged</credits>
+    <offered/>
+    <description>
+       Includes senior project and capstone experience. Independent research problems/projects or scholarship activities. The plan of study is negotiated by the faculty member and the student. Contact between the two may be extensive and intensive. Does not include research courses which are theoretical.
+    </description>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes> Credit to be arranged; not to exceed 6 credits toward fulfillment of B.S. degree requirements. May be repeated for a total of 6 credit hours.</notes>
+  </course>
+
+  <!-- MATH courses at SDSM&T from 2016-17 catalog -->
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>021</number>
+    <name>Basic Algebra</name>
+    <credits>3</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      This course prepares students for college level mathematics. Topics generally include: basic properties of real numbers, exponents and radicals, rectangular coordinate geometry, solutions to linear and quadratic equations, inequalities, polynomials, and factoring. Students may also be introduced to functions and systems of equations.
+    </description>
+    <prereq>appropriate mathematics placement</prereq>
+    <coreq/>
+    <notes> This is a remedial level course and no credit for MATH 021 will be granted for graduation. </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>101</number>
+    <name>Intermediate Algebra</name>
+    <credits>3</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      Basic properties of real numbers, linear equations and inequalities, quadratic equations, systems of equations, polynomials and factoring, rational expressions and equations, and radical expressions and equations, and an introduction to functions such as polynomial, exponential and logarithmic functions.
+    </description>
+    <prereq>MATH 021</prereq>
+    <prereq>appropriate mathematics placement</prereq>
+    <coreq/>
+    <notes> May not be used for credit towards baccalaureate degree, but may be used toward the associate degree. </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>102</number>
+    <name>College Algebra</name>
+    <credits>4</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      Equations and inequalities; polynomial functions and graphs, exponents, radicals, binomial theorem, zeros of polynomials; systems of equations; exponential, logarithmic, and inverse functions, applications and graphs. Other topics selected from sequences, series, and complex numbers.
+    </description>
+    <prereq>MATH 101 with C or better</prereq>
+    <prereq>appropriate mathematics placement</prereq>
+    <coreq/>
+    <notes>
+      May not be used for credit toward an engineering or science degree (except for Interdisciplinary Sciences-Pre-Professional Health Science Specialization; Interdisciplinary Sciences-Science, Technoloy, and Socieity Specialization; chemistry; and associates of arts).
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>110</number>
+    <name>Survey of Computer Science and Mathematics</name>
+    <credits>1</credits>
+    <offered/>
+    <description>
+      This is an introductory course for incoming freshmen in Computer Science or Mathematics that provides a survey of the major areas in the profession along with ethical standards that are used. When applicable, guest lectures will be arranged to illuminate different areas of study.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes> This course is cross-listed with CSC 110. </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>115</number>
+    <name>Precalculus</name>
+    <credits>5</credits>
+    <offered/>
+    <description>
+      A preparatory course for the calculus sequence. Topics include: polynomial, rational, exponential, logarithmic and trigonometric functions and their graphs; systems of equations, inequalities and complex numbers.
+    </description>
+    <prereq>MATH 101 with C or better</prereq>
+    <prereq>appropriate mathematics placement</prereq>
+    <coreq/>
+    <notes>
+      May not be used for credit toward an engineering or science degree (except for Interdisciplinary Sciences-Pre-Professional Health Science Specialization; Interdisciplinary Sciences-Science, Technology, and Socieity Specialization; Chemistry; Associates of Arts).
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>120</number>
+    <name>Trigonometry</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      Topics include: trigonometric functions, equations, and identities; inverse trigonometric functions; exponential and logarithmic functions, and applications of these functions.
+    </description>
+    <prereq>MATH 102 with C or better</prereq>
+    <prereq>appropriate mathematics placement</prereq>
+    <coreq/>
+    <notes>
+      May not be used for credit toward an engineering or science degree (except for Applied Biological Sciences, Interdisciplinary Sciences-Pre-Professional Health Science Specialization; Interdisciplinary Sciences-Science, Technology, and Society Specialization; Chemistry; and Associate of Arts).
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>123</number>
+    <name>Calculus I</name>
+    <credits>4</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      The study of limits, continuity, derivatives, applications of the derivative, antiderivatives, the definite and indefinite integral, and the fundamental theorem of calculus.
+    </description>
+    <prereq>MATH 115 with C or better</prereq>
+    <prereq>appropriate mathematics placement</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>
+      Students who are initially placed into MATH 102 or below must complete MATH 102 and MATH 120 with C or better before enrolling in MATH 123. Students who are placed in MATH 120 should consult their advisor to determine whether their placement score was sufficiently high to allow concurrent registration in MATH 123.
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>125</number>
+    <name>Calculus II</name>
+    <credits>4</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      A continuation of the study of calculus, including the study of sequences, series, polar coordinates, parametric equations, techniques of integration, applications of integration, indeterminate forms, and improper integrals.
+    </description>
+    <prereq>MATH 123 with C or better, MATH 115 with C or better</prereq>
+    <prereq>MATH 123 with C or better, MATH 120 with C or better</prereq>
+    <prereq>MATH 123 with C or better, appropriate score on departmental Trigonometry Placement Examination</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>205</number>
+    <name>Mining and Management Mathematics I</name>
+    <credits>2</credits>
+    <offered/>
+    <description>
+      A survey of calculus in higher dimensions that includes an introduction to vectors, vector valued functions, and partial derivatives.
+    </description>
+    <prereq>MATH 125 with C or better</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>
+      This course may not be used for credit toward an engineering or science degree (except for Mining Engineering).
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>221</number>
+    <name>Introduction to Discrete Mathematics</name>
+    <credits>2</credits>
+    <offered/>
+    <description>
+      The main purpose of this course is to provide background and experience on the structure of proofs. Topics may include: elementary logic; basic set theory; and sequences of summations, functions, matrices, and proof techniques.
+    </description>
+    <prereq>MATH 123 with C or better</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>225</number>
+    <name>Calculus III</name>
+    <credits>4</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      A continuation of the study of calculus, including an introduction to vectors, vector calculus, partial derivatives, and multiple integrals.
+    </description>
+    <prereq>MATH 125 with C or better</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>281</number>
+    <name>Introduction to Statistics</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      A study of descriptive statistics including graphs, measures of central tendency and variability and an introduction to probability theory, sampling and techniques of statistical inference with an emphasis on statistical applications.
+    </description>
+    <prereq>MATH 102</prereq>
+    <prereq>MATH 115</prereq>
+    <coreq/>
+    <notes>
+      Individuals may apply for at most 4 credits toward a degree from the following list of courses: MATH 281, IENG 381/MATH 381, MATH 442.
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>291</number>
+    <name>Independent Study</name>
+    <credits>1 to 5</credits>
+    <offered/>
+    <description>
+      Includes directed study, problems, readings, directed readings, special problems and special projects. Students complete individualized plans of study which include significant one-on-one student-teacher involvement. The faculty member and students negotiate the details of the study plans. Meeting frequency depends on the requirements of the topic.
+    </description>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>
+      May be repeated to a total of 5 credit hours.
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>292</number>
+    <name>Topics</name>
+    <credits>1 to 5</credits>
+    <offered/>
+    <description>
+      Includes current topics, advanced topics and special topics. A course devoted to a particular issue in a specified field. Course content is not wholly included in the regular curriculum. Guest artists or experts may serve as instructors.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes>
+      May be repeated to a total of 6 credit hours.
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>315</number>
+    <name>Linear Algebra</name>
+    <credits>3</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      Course topics include: the theory and applications of systems of linear equations, matrices, determinants, vector spaces, linear transformations and applications.
+    </description>
+    <prereq>MATH 225</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>321</number>
+    <name>Differential Equations</name>
+    <credits>3</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      Selected topics from ordinary differential equations including development and applications of first order, higher order linear and systems of linear equations, general solutions and solutions to initial-value problems using matrices. Additional topics may include Laplace transforms and power series solutions. In addition to analytical methods this course will also provide an introduction to numerical solution techniques.
+    </description>
+    <prereq>MATH 125 with C or better</prereq>
+    <coreq/>
+    <notes> MATH 225 and MATH 321 may be taken concurrently or in either order. </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>353</number>
+    <name>Linear Optimization</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      Convex sets and functions, linear inequalities and combinatorial problems; topics in linear programming from fundamental theorems of simplex method through sensitivity analysis, duality, transportation and assignment problems.
+    </description>
+    <prereq>MATH 225</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>373</number>
+    <name>Introduction to Numerical Analysis</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      This course is an introduction to numerical methods. Topics include elementary discussion of errors, polynomial interpolation, quadrature, non-linear equations, and systems of linear equations. The algorithmic approach and efficient use of the computer will be emphasized. Additional topics may include: calculation of eigenvalues and eigenvectors, numerical differentiation and integration, numerical solution of differential equations.
+    </description>
+    <prereq>MATH 321, CSC 150</prereq>
+    <prereq>MATH 321, CSC 170</prereq>
+    <prereq>MATH 321, permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>381</number>
+    <name>Introduction to Probability and Statistics</name>
+    <credits>3</credits>
+    <offered>Spring, Fall</offered>
+    <description>
+      Introduction to probability theory, discrete and continuous distributions, sampling distributions and the central limit theorem with general principles for statistical inference and applications of random sampling to hypothesis testing, confidence limits, correlation, and regression.
+    </description>
+    <prereq>MATH 125 with C or better</prereq>
+    <coreq/>
+    <notes>
+      This course is cross listed with IENG 381. Individuals may apply at most 4 credits toward a degree from the following list of courses: MATH 281, IENG 381/MATG 381, MATH 442.
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>382</number>
+    <name>Probability Theory and Statistics II</name>
+    <credits>3</credits>
+    <offered>Spring</offered>
+    <description>
+      Review of general principles of statistical inference, linear regression and correlation, multiple linear regression, ANOVA, and statistical design of experiments.
+    </description>
+    <prereq>MATH 381</prereq>
+    <prereq>IENG 381</prereq>
+    <coreq/>
+    <notes> This course</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>391</number>
+    <name>Independent Study</name>
+    <credits>1 to 5</credits>
+    <offered/>
+    <description>
+      Includes directed study, problems, readings, directed readings, special problems, and special projects. Students complete individualized plans of study which include significant one-on-one student-teacher involvement. The faculty member and students negotiate the details of the study plans. Meeting frequency depends on the requirements of the topic.
+    </description>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>
+      May be repeated to a total of 5 credit hours.
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>392</number>
+    <name>Topics</name>
+    <credits>1 to 5</credits>
+    <offered/>
+    <description>
+      Includes current topics, advanced topics and special topics. A course devoted to a particular issue in a specified field. Course content is not wholly included in the regular curriculum. Guest artists or experts may serve as instructors.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes> May be repeated to a total of 6 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>402</number>
+    <name>Communicating Mathematics</name>
+    <credits>1</credits>
+    <offered/>
+    <description>
+      The student will produce a word-processed technical report of research conducted in MATH 498 and given a department colloquium talk summarizing her or his work. Department faculty member(s) will provide guidance in the production of the technical report and in the preparation for the colloquium talk.
+    </description>
+    <prereq>MATH 498</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>413</number>
+    <name>Abstract Algebra I</name>
+    <credits>3</credits>
+    <offered>Fall of an odd year.</offered>
+    <description>
+      Introduction to the theory and applications of algebraic structures including groups, rings, and fields.
+    </description>
+    <prereq>MATH 225, CSC 251</prereq>
+    <prereq>MATH 225, MATH 221</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>421</number>
+    <name>Complex Analysis</name>
+    <credits>3</credits>
+    <offered>Spring of even year.</offered>
+    <description>
+      The algebra of complex numbers; complex functions; contour integration and Cauchy integral theorems; Taylor and Laurent series and the residue theorem; the evaluation of real definite integrals; elementary mapping problems.
+    </description>
+    <prereq>MATH 225</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>423</number>
+    <name>Advanced Calculus I</name>
+    <credits>4</credits>
+    <offered>Fall of an odd year.</offered>
+    <description>
+      A theoretical treatment of calculus that covers: limits; continuity and differentiability of functions of a single variable.
+    </description>
+    <prereq>MATH 225, CSC 251</prereq>
+    <prereq>MATH 225, MATH 221</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>424</number>
+    <name>Advanced Calculus II</name>
+    <credits>4</credits>
+    <offered>Spring of an even year</offered>
+    <description>
+     A continuation of MATH 423 that covers calculus of several variables; convergence of sequences and series; integration; and applications.
+    </description>
+    <prereq>MATH 423</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>432</number>
+    <name>Partial Differential Equations</name>
+    <credits>3</credits>
+    <offered>Fall of an odd year</offered>
+    <description>
+      Fourier series, partial differential equations, Frobenius series, Bessel functions, and transform methods.
+    </description>
+    <prereq>MATH 225 with C or better, MATH 321 with C or better</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>443</number>
+    <name>Data Analysis</name>
+    <credits>3</credits>
+    <offered>Spring of an odd year.</offered>
+    <description>
+      Accessing, validating, processing, extracting, visualizing and presenting data. Exposure to managing data in a relational database management system. Looking for underlying structure in data using data reduction techniques (e.g., multidimensional scaling, principal components analysis) and, more generally, unsupervised learning techniques (e.g., clustering). Prediction using supervised learning techniques such as discriminant analysis, logistic regression and decision trees. Software may include R and some version of SQL.
+    </description>
+    <prereq>MATH 225</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes>
+      Students enrolled in MATH 543 will be held to a higher standard than those enrolled in MATH 443.
+    </notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>447</number>
+    <name>Design of Experiments</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      Single and multifactor experiments, analysis of variance, factorial designs, the use of multiple regression, and response surface methodology. Topics may include nonparametric and permutation/randomization alternatives to the traditional parametric tests.
+    </description>
+    <prereq>MATH 381 with C or better</prereq>
+    <prereq>IENG 381 with C or better</prereq>
+    <coreq/>
+    <notes> Students enrolled in MATH 547 will be held to a higher standard than those enrolled in MATH 447.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>451</number>
+    <name>Math Modeling</name>
+    <credits>3</credits>
+    <offered>Spring of an even year</offered>
+    <description>
+      The primary goal of this course is to present the mathematical formulation and analysis utilized in scientific modeling. Applications from both science and engineering will be covered. The types of models will include deterministic and stochastic models. Topics may include: epidemiology, biomass, elasticity, heat flow, electrical circuits, mechanical vibrations and optimization.
+    </description>
+    <prereq>MATH 321</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes> Students enrolled in MATH 551 will be held to a higher standard than those enrolled in MATH 451.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>452</number>
+    <name>Advanced Studies in Mathematics</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      This course is a capstone experience where students will enhance their mathematics background on selected topics. One of the goals of this course is to foster the ability to learn advanced mathematics and also learn to apply the use of technology in the study of mathematics.
+    </description>
+    <prereq>MATH 225, MATH 321</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes> Students enrolled in MATH 552 will be help to a higher standard that those enrolled in MATH 452.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>471</number>
+    <name>Numerical Analysis I</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      Analysis of rounding errors, numerical solutions of nonlinear equations, numerical differentiation, numerical integration, interpolation and approximation, numerical methods for solving linear systems.
+    </description>
+    <prereq>MATH 373</prereq>
+    <prereq>CSC 372</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>486</number>
+    <name>Statistical Quality and Process Control</name>
+    <credits>3</credits>
+    <offered/>
+    <description>
+      This course covers the development of statistical methods for application to problems in quality and process control. Statistical topics include: basics of processes and variability, statistically controlled processes, variable and attribute control charts, moving averages, individual trend and others, process capability, sampling plans for attributes and variables.
+    </description>
+    <prereq>MATH 381</prereq>
+    <prereq>IENG 381</prereq>
+    <prereq>MATH 442</prereq>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>491</number>
+    <name>Independent Study</name>
+    <credits>1 to 3</credits>
+    <offered/>
+    <description>
+      Includes directed study, problems, readings, directed readings, special problems and special projects. Students complete individualized plans of study which include significant one-on-one student-teacher involvement. The faculty member and students negotiate the details of the study plans. Meeting frequency depends on the requirements of the topic.
+    </description>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes> May be repeated to a total of 3 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>492</number>
+    <name>Topics</name>
+    <credits>1 to 6</credits>
+    <offered/>
+    <description>
+      Includes current topics, advanced topics and special topics. A course devoted to a particular issue in a specified field. Course content is not wholly included in the regular curriculum. Guest artists or experts may serve as instructors.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes> May be repeated to a total of 6 credit hours.</notes>
+  </course>
+
+  <course isactive="yes">
+    <prefix>MATH</prefix>
+    <number>498</number>
+    <name>Undergraduate Research/Scholarship</name>
+    <credits>1</credits>
+    <offered/>
+    <description>
+      Includes senior project, and capstone experience. Independent research problems/projects or scholarship activities. The plan of study is negotiated by the faculty member and the student. Contact between the two may be extensive and intensive. Does not include research courses which are theoretical.
+    </description>
+    <prereq>permission of instructor</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <!-- other courses for CS majors at SDSM&T from 2016-17 catalog -->
+
+  <course isactive="yes">
+    <prefix>ENGL</prefix>
+    <number>101</number>
+    <name>Composition I</name>
+    <credits>3</credits>
+    <offered>every fall, every spring</offered>
+    <description>
+      Practice in the skills, research, and documentation needed for effective academic writing. Analysis of a variety of academic and non-academic texts, rhetorical structures, critical thinking, and audience will be included.
+    </description>
+    <prereq/>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>ENGL</prefix>
+    <number>279</number>
+    <name>Technical Communications I</name>
+    <credits>3</credits>
+    <offered>every fall, every spring</offered>
+    <description>
+      Introductory written and oral technical communications with emphasis on research and explanations of scientific and engineering topics.
+    </description>
+    <prereq/>
+    <coreq>ENGL 101</coreq>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>ENGL</prefix>
+    <number>289</number>
+    <name>Technical Communications II</name>
+    <credits>3</credits>
+    <offered>every fall, every spring</offered>
+    <description>
+      Advanced written and oral technical communications with emphasis on the research, preparation, and delivery of complex technical documents.
+    </description>
+    <prereq>ENGL 279</prereq>
+    <coreq/>
+    <notes/>
+  </course>
+
+  <course isactive="yes">
+    <prefix>PHYS</prefix>
+    <number>211</number>
+    <name>University Physics I</name>
+    <credits>3</credits>
+    <offered>every fall, every spring</offered>
+    <description>
+      This is the first course in a two semester calculus-level sequence, covering fundamental concepts of physics. This is the preferred sequence for students majoring in physical science or engineering. Topics include classical mechanics and thermodynamics.
+    </description>
+    <prereq>MATH 123</prereq>
+    <coreq/>
+    <notes> The School of Mines course covers classical mechanics only. </notes>
+  </course>
+
+</courses>

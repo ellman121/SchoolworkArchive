@@ -1,0 +1,592 @@
+doctype html
+html(lang="en")
+	head
+		include include.pug
+
+	body
+		- var grades = ['A', 'B', 'C', 'D', 'F', 'EX']
+		.container.u-full-width#bodyContainer
+			section.header
+				h2 Enter the classes you've taken below
+				hr
+				h5 We have some reference documents here
+				.reference.u-full-width
+					p.four.columns.centerText
+						a(href="") Course Checklist
+					p.four.columns.centerText
+						a(href="") General Education Classes
+					p.four.columns.centerText
+						a(href="") Recommended Flowchart
+					br
+
+			hr.u-full-width
+					
+			form#classEntryForm.u-full-width(onsubmit="return login()")
+				.section
+					h5 Computer Science Core
+						label.top.leftside#CSCorePlus(for="hideCSCore" position="fixed" width="0px;") ▶
+					input#hideCSCore(type="checkbox" style="display:none;" data-toggle="fold" checked)
+				.section#CSCore
+					.row
+						.two.columns
+							input.u-full-width#csc150InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc150InputNumber(type="text", placeholder="150" readonly)
+						.four.columns
+							input.u-full-width#csc150InputTitle(type="text", placeholder="Computer Programming 1" readonly)
+						.two.columns
+							input.u-full-width#csc150InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#csc150InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+									
+					.row
+						.two.columns
+							input.u-full-width#csc250InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc250InputNumber(type="text", placeholder="250" readonly)
+						.four.columns
+							input.u-full-width#csc250InputTitle(type="text", placeholder="Computer Programming 2" readonly)
+						.two.columns
+							input.u-full-width#csc250InputCredits(type="text", placeholder="4" readonly)
+						.two.columns
+							select.u-full-width#csc250InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc300InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc300InputNumber(type="text", placeholder="300" readonly)
+						.four.columns
+							input.u-full-width#csc300InputTitle(type="text", placeholder="Data Structures" readonly)
+						.two.columns
+							input.u-full-width#csc300InputCredits(type="text", placeholder="4" readonly)
+						.two.columns
+							select.u-full-width#csc300InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc314InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc314InputNumber(type="text", placeholder="314" readonly)
+						.four.columns
+							input.u-full-width#csc314InputTitle(type="text", placeholder="Assembly Language" readonly)
+						.two.columns
+							input.u-full-width#csc314InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#csc314InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc317InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc317InputNumber(type="text", placeholder="317" readonly)
+						.four.columns
+							input.u-full-width#csc317InputTitle(type="text", placeholder="Computer Org and Arch" readonly)
+						.two.columns
+							input.u-full-width#csc317InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#csc317InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc372InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc372InputNumber(type="text", placeholder="372" readonly)
+						.four.columns
+							input.u-full-width#csc372InputTitle(type="text", placeholder="Analysis of Algorithms" readonly)
+						.two.columns
+							input.u-full-width#csc372InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#csc372InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc456InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc456InputNumber(type="text", placeholder="456" readonly)
+						.four.columns
+							input.u-full-width#csc456InputTitle(type="text", placeholder="Operating Systems" readonly)
+						.two.columns
+							input.u-full-width#csc456InputCredits(type="text", placeholder="4" readonly)
+						.two.columns
+							select.u-full-width#csc456InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc461InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc461InputNumber(type="text", placeholder="461" readonly)
+						.four.columns
+							input.u-full-width#csc461InputTitle(type="text", placeholder="Programming Languages" readonly)
+						.two.columns
+							input.u-full-width#csc461InputCredits(type="text", placeholder="4" readonly)
+						.two.columns
+							select.u-full-width#csc461InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc464InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc464InputNumber(type="text", placeholder="464" readonly)
+						.four.columns
+							input.u-full-width#csc464InputTitle(type="text", placeholder="Senior Design 1" readonly)
+						.two.columns
+							input.u-full-width#csc464InputCredits(type="text", placeholder="2" readonly)
+						.two.columns
+							select.u-full-width#csc464InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc465InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc465InputNumber(type="text", placeholder="465" readonly)
+						.four.columns
+							input.u-full-width#csc465InputTitle(type="text", placeholder="Senior Design 2" readonly)
+						.two.columns
+							input.u-full-width#csc465InputCredits(type="text", placeholder="2" readonly)
+						.two.columns
+							select.u-full-width#csc465InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc468InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc468InputNumber(type="text", placeholder="468" readonly)
+						.four.columns
+							input.u-full-width#csc468InputTitle(type="text", placeholder="Graphical User Interfaces" readonly)
+						.two.columns
+							input.u-full-width#csc468InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#csc468InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc470InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc470InputNumber(type="text", placeholder="470" readonly)
+						.four.columns
+							input.u-full-width#csc470InputTitle(type="text", placeholder="Software Engineering" readonly)
+						.two.columns
+							input.u-full-width#csc470InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#csc470InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#csc484InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#csc484InputNumber(type="text", placeholder="484" readonly)
+						.four.columns
+							input.u-full-width#csc484InputTitle(type="text", placeholder="Database Management" readonly)
+						.two.columns
+							input.u-full-width#csc484InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#csc484InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+
+				.section.u-full-width
+					h5 Computer Science Electives
+						label.top.leftside#CSElectivePlus(for="hideCSElective") ▶
+					input#hideCSElective(type="checkbox" style="display:none;" data-toggle="fold" checked)
+				.section#CSElective
+					.row
+						.two.columns
+							input.u-full-width#cscElect1InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#cscElect1InputNumber(type="text", placeholder="Number" )
+						.four.columns
+							input.u-full-width#cscElect1InputTitle(type="text", placeholder="Course Title" )
+						.two.columns
+							input.u-full-width#cscElect1InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#cscElect1InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#cscElect2InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#cscElect2InputNumber(type="text", placeholder="Number" )
+						.four.columns
+							input.u-full-width#cscElect2InputTitle(type="text", placeholder="Course Title" )
+						.two.columns
+							input.u-full-width#cscElect2InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#cscElect2InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#cscElect3InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#cscElect3InputNumber(type="text", placeholder="Number" )
+						.four.columns
+							input.u-full-width#cscElect3InputTitle(type="text", placeholder="Course Title" )
+						.two.columns
+							input.u-full-width#cscElect3InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#cscElect3InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#cscElect4InputPrefix(type="text", placeholder="CSC" readonly)
+						.two.columns
+							input.u-full-width#cscElect4InputNumber(type="text", placeholder="Number" )
+						.four.columns
+							input.u-full-width#cscElect4InputTitle(type="text", placeholder="Course Title" )
+						.two.columns
+							input.u-full-width#cscElect4InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#cscElect4InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+
+				.section.u-full-width
+					h5 Science Requirements
+						label.top.leftside#SciReqPlus(for="hideSciReq") ▶
+					input#hideSciReq(type="checkbox" style="display:none;" data-toggle="fold" checked)
+				.section#SciReq
+					.row
+						.two.columns
+							input.u-full-width#phys211InputPrefix(type="text", placeholder="PHYS" readonly)
+						.two.columns
+							input.u-full-width#phys211InputNumber(type="text", placeholder="211" readonly)
+						.four.columns
+							input.u-full-width#phys211InputTitle(type="text", placeholder="University Physics 1" readonly)
+						.two.columns
+							input.u-full-width#phys211InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#phys211InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#sci1InputPrefix(type="text", placeholder="SCI")
+						.two.columns
+							input.u-full-width#sci1InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#sci1InputTitle(type="text", placeholder="Science 1")
+						.two.columns
+							input.u-full-width#sci1InputCredits(type="text", placeholder="3")
+						.two.columns
+							select.u-full-width#sci1InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#sci1LInputPrefix(type="text", placeholder="SCI")
+						.two.columns
+							input.u-full-width#sci1LInputNumber(type="text", placeholder="Lab")
+						.four.columns
+							input.u-full-width#sci1LInputTitle(type="text", placeholder="Science 1 Lab")
+						.two.columns
+							input.u-full-width#sci1LInputCredits(type="text", placeholder="1")
+						.two.columns
+							select.u-full-width#sci1LInputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#sci2InputPrefix(type="text", placeholder="SCI")
+						.two.columns
+							input.u-full-width#sci2InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#sci2InputTitle(type="text", placeholder="Science 2")
+						.two.columns
+							input.u-full-width#sci2InputCredits(type="text", placeholder="3")
+						.two.columns
+							select.u-full-width#sci2InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#sci2LInputPrefix(type="text", placeholder="SCI")
+						.two.columns
+							input.u-full-width#sci2LInputNumber(type="text", placeholder="Lab")
+						.four.columns
+							input.u-full-width#sci2LInputTitle(type="text", placeholder="Science 2 Lab")
+						.two.columns
+							input.u-full-width#sci2LInputCredits(type="text", placeholder="1")
+						.two.columns
+							select.u-full-width#sci2LInputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+
+				.section.u-full-width
+					h5 Mathematics Requirements
+						label.top.leftside#MathReqPlus(for="hideMathReq") ▶
+					input#hideMathReq(type="checkbox" style="display:none;" data-toggle="fold" checked)
+				.section#MathReq(for="hideMathReq")
+					.row
+						.two.columns
+							input.u-full-width#math123InputPrefix(type="text", placeholder="MATH" readonly)
+						.two.columns
+							input.u-full-width#math123InputNumber(type="text", placeholder="123" readonly)
+						.four.columns
+							input.u-full-width#math123InputTitle(type="text", placeholder="Calculus 1" readonly)
+						.two.columns
+							input.u-full-width#math123InputCredits(type="text", placeholder="4" readonly)
+						.two.columns
+							select.u-full-width#math123InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#math125InputPrefix(type="text", placeholder="MATH" readonly)
+						.two.columns
+							input.u-full-width#math125InputNumber(type="text", placeholder="125" readonly)
+						.four.columns
+							input.u-full-width#math125InputTitle(type="text", placeholder="Calculus 2" readonly)
+						.two.columns
+							input.u-full-width#math125InputCredits(type="text", placeholder="4" readonly)
+						.two.columns
+							select.u-full-width#math125InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#math225InputPrefix(type="text", placeholder="MATH" readonly)
+						.two.columns
+							input.u-full-width#math225InputNumber(type="text", placeholder="225" readonly)
+						.four.columns
+							input.u-full-width#math225InputTitle(type="text", placeholder="Calculus 3" readonly)
+						.two.columns
+							input.u-full-width#math225InputCredits(type="text", placeholder="4" readonly)
+						.two.columns
+							select.u-full-width#math225InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#math315InputPrefix(type="text", placeholder="MATH" readonly)
+						.two.columns
+							input.u-full-width#math315InputNumber(type="text", placeholder="315" readonly)
+						.four.columns
+							input.u-full-width#math315InputTitle(type="text", placeholder="Linear Algebra" readonly)
+						.two.columns
+							input.u-full-width#math315InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#math315InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#math381InputPrefix(type="text", placeholder="MATH" readonly)
+						.two.columns
+							input.u-full-width#math381InputNumber(type="text", placeholder="381" readonly)
+						.four.columns
+							input.u-full-width#math381InputTitle(type="text", placeholder="Probability and Statistics" readonly)
+						.two.columns
+							input.u-full-width#math381InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#math381InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#mathElecInputPrefix(type="text", placeholder="MATH" readonly)
+						.two.columns
+							input.u-full-width#mathElecInputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#mathElecInputTitle(type="text", placeholder="Math Elective")
+						.two.columns
+							input.u-full-width#mathElecInputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#mathElecInputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+
+				.section.u-full-width
+					h5 Arts / Social Sciences
+						label.top.leftside#GenEdReqPlus(for="hideGenEdReq") ▶
+					input#hideGenEdReq(type="checkbox" style="display:none;" data-toggle="fold" checked)
+				.section.u-full-width#GenEdReq
+					.row
+						.two.columns
+							input.u-full-width#eng101InputPrefix(type="text", placeholder="ENG" readonly)
+						.two.columns
+							input.u-full-width#eng101InputNumber(type="text", placeholder="101" readonly)
+						.four.columns
+							input.u-full-width#eng101InputTitle(type="text", placeholder="Composition 1" readonly)
+						.two.columns
+							input.u-full-width#eng101InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#eng101InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#eng279InputPrefix(type="text", placeholder="ENG" readonly)
+						.two.columns
+							input.u-full-width#eng279InputNumber(type="text", placeholder="279" readonly)
+						.four.columns
+							input.u-full-width#eng279InputTitle(type="text", placeholder="Technical Communication 1" readonly)
+						.two.columns
+							input.u-full-width#eng279InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#eng279InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#eng289InputPrefix(type="text", placeholder="ENG" readonly)
+						.two.columns
+							input.u-full-width#eng289InputNumber(type="text", placeholder="289" readonly)
+						.four.columns
+							input.u-full-width#eng289InputTitle(type="text", placeholder="Technical Communication 2" readonly)
+						.two.columns
+							input.u-full-width#eng289InputCredits(type="text", placeholder="3" readonly)
+						.two.columns
+							select.u-full-width#eng289InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#gened1InputPrefix(type="text", placeholder="GENED")
+						.two.columns
+							input.u-full-width#gened1InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#gened1InputTitle(type="text", placeholder="Social Science 1")
+						.two.columns
+							input.u-full-width#gened1InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#gened1InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#gened2InputPrefix(type="text", placeholder="GENED")
+						.two.columns
+							input.u-full-width#gened2InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#gened2InputTitle(type="text", placeholder="Social Science 2")
+						.two.columns
+							input.u-full-width#gened2InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#gened2InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#gened3InputPrefix(type="text", placeholder="GENED")
+						.two.columns
+							input.u-full-width#gened3InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#gened3InputTitle(type="text", placeholder="Arts / Humanities 1")
+						.two.columns
+							input.u-full-width#gened3InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#gened3InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#gened4InputPrefix(type="text", placeholder="GENED")
+						.two.columns
+							input.u-full-width#gened4InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#gened4InputTitle(type="text", placeholder="Arts / Humanities 2")
+						.two.columns
+							input.u-full-width#gened4InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#gened4InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#gened5InputPrefix(type="text", placeholder="GENED")
+						.two.columns
+							input.u-full-width#gened5InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#gened5InputTitle(type="text", placeholder="A General Ed Class")
+						.two.columns
+							input.u-full-width#gened5InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#gened5InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#gened6InputPrefix(type="text", placeholder="GENED")
+						.two.columns
+							input.u-full-width#gened6InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#gened6InputTitle(type="text", value="hello" placeholder="Free Elective 1")
+						.two.columns
+							input.u-full-width#gened6InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#gened6InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+					.row
+						.two.columns
+							input.u-full-width#gened7InputPrefix(type="text", placeholder="GENED")
+						.two.columns
+							input.u-full-width#gened7InputNumber(type="text", placeholder="Number")
+						.four.columns
+							input.u-full-width#gened7InputTitle(type="text", placeholder="Free Elective 2")
+						.two.columns
+							input.u-full-width#gened7InputCredits(type="text", placeholder="Credits")
+						.two.columns
+							select.u-full-width#gened7InputGrade
+								option(value='' selected) Grade
+								each grade in grades
+									option(value=grade)= grade
+
+				.section
+					input.button-primary.two.columns.rightside#submitButton(type="submit", value="submit" style="bottom:-27px;")
+
+			script setupClassEntry();
+		.loader#loadingAnimationID

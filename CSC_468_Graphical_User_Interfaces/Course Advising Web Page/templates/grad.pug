@@ -1,0 +1,42 @@
+html(lang="en")
+	head
+		include include.pug
+
+	body
+		.loader#loadingAnimationID
+		.container#bodyContainer
+			section.header
+				h2 You're ready to graduate!
+			hr
+			
+			section.u-full-width
+				table.twelve.columns
+					tbody
+						tr
+							td Cumulative GPA
+							td.rightside 3.0
+						tr
+							td Major GPA
+							td.rightside 3.0
+			
+			h5 A summary of your classes is below
+			table.u-full-width
+				thead
+					tr
+						th Prefix
+						th Number
+						th Title
+						th.rightside Grade
+				tbody
+					tr
+						td CSC
+						td 150
+						td Programming 1
+						td.rightside A
+					tr
+						td CSC
+						td 250
+						td Programming 2
+						td.rightside A	
+			
+			script setupGrad();

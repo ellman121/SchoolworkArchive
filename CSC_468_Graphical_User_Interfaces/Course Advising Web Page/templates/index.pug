@@ -1,0 +1,25 @@
+doctype html
+html(lang="en")
+	head
+		include include.pug
+
+	body
+		.loader#loadingAnimationID
+		.container#bodyContainer
+			section.header
+				img.u-full-width(src='/images/SDSMT-Logo.jpg')
+				h2 Welcome to the Advising Tool
+			hr
+
+			section.main
+				form#loginForm.u-full-width
+					.row
+						.six.columns
+							label(for="stuIDInput") Student ID
+							input.u-full-width#stuIDInput(type="text", name="stuIDInput", placeholder="1234567")
+						.six.columns
+							label(for="password") Password
+							input.u-full-width#passIDInput(type="password", name="passIDInput", placeholder="*********")
+					.row
+						input.button-primary.abs.rightside#submitButton(type="submit", name="btn", value="submit")
+			script setupLogin();
