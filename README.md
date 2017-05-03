@@ -81,6 +81,14 @@ This course is an introduction to the study of programming languages.  The first
 | Paint in Java | This is a primitave version of a 'Paint' program written in Java. |
 | Family Tree | This program allows the user to input a .dat file consisting of family entries, and then query the data with functions found in genealogy.lsp |
 
+#### CSC 468 - Graphical User Interfaces
+This course is a survey of GUI technologies.  The first topic of discussion is traditional desktop GUIs, their differences from batch style programs, and why we build them.  The next topic is an introduction to simple web programming using PHP, Javascript, and HTML/CSS.  After that, students get a brief introduction to mobile computing on the Android platform.
+
+| Program Name | Description |
+|----------------------|----------------------------------------------------------------------------|
+| BonePit | This program is a mock kiosk for the Mammoth Site in Hill City, SD.  The program will display all of the bones in the site, and allow the user to pan around the map, seeing the bones. |
+| Course Checklist | This is a website which will allow students to check their degree progress and course prerequisits, as well as get advising recommendations.  Please don't read the PHP. |
+
 #### SE2CO11 - Compilers
 I took this course while studying abroad at the University of Reading.  This course focused on basic compiler techniques, including lexical analysis, parsing, code generation, TAC, Finite State Automata, and basic optimisation
 
