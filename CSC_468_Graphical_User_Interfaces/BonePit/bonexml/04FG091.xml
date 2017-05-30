@@ -1,0 +1,15 @@
+<xml>
+<nshapes> 1 </nshapes>
+<xymin> 1004.690601 1017.058064 </xymin>
+<xymax> 1004.690601 1017.058064 </xymax>
+<shape>
+<id> 04FG091 </id>
+<npolylines> 0 </npolylines>
+<nvertices> 1 </nvertices>
+<xymin> 1004.690601 1017.058064 </xymin>
+<xymax> 1004.690601 1017.058064 </xymax>
+<polyline>
+<xy> 1004.690601 1017.058064 </xy>
+</polyline>
+</shape>
+</xml>

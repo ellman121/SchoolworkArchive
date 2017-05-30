@@ -1,0 +1,135 @@
+
+<html lang="en">
+  <head>
+    <!-- include.pug - Includes libraries and stuff-->
+    <!-- UTF-8 is master text encoding-->
+    <meta charset="UTF-8"/>
+    <!-- CSS Libraries-->
+    <link href="css/normalize.css" rel="stylesheet"/>
+    <link href="css/skeleton.css" rel="stylesheet"/>
+    <link href="css/animate.css" rel="stylesheet"/>
+    <!-- CSS Files-->
+    <link href="css/custom.css" rel="stylesheet"/>
+    <link href="css/loader.css" rel="stylesheet"/>
+    <!-- Javascript Libraries-->
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/jquery-pjax.js"></script>
+    <!-- Javascript files-->
+    <script src="js/app.js"></script>
+    <!-- Show things-->
+    <title>Advisinator</title>
+  </head>
+  <body>
+    <div class="loader" id="loadingAnimationID"></div>
+    <div class="container" id="bodyContainer">
+      <div class="section header">
+        <h2>Advising Page</h2>
+      </div>
+      <hr/>
+      <div class="section gpa u-full-width">
+        <h5>Information</h5>
+        <table class="twelve columns">
+          <tbody>
+            <tr>
+              <td>Cumulative GPA</td>
+              <td class="rightText">3.0</td>
+            </tr>
+            <tr>
+              <td>Major GPA</td>
+              <td class="rightText">3.0</td>
+            </tr>
+            <tr>
+              <td>Total Credits</td>
+              <td class="rightText">60</td>
+            </tr>
+            <tr>
+              <td>CSC Credits</td>
+              <td class="rightText">25</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="section progress u-full-width">
+        <h5>Degree Progress: 50%</h5>
+        <div class="progressBar twelve columns" data-percent="50%">
+          <div class="progressBarBar"></div>
+        </div>
+        <hr class="u-full-width"/>
+      </div>
+      <div class="section">
+        <h5>Classes we Recommend
+          <label class="top leftside" id="CompletedPlus" for="hideCompleted" position="fixed" width="0px;">▶</label>
+        </h5>
+        <input id="hideCompleted" type="checkbox" style="display:none;" data-toggle="fold" checked="checked"/>
+      </div>
+      <div class="section u-full-width" id="Completed">
+        <table class="twelve columns">
+          <thead>
+            <tr>
+              <th>Prefix</th>
+              <th class="centerText">Number</th>
+              <th class="centerText">Title</th>
+              <th class="rightText">Grade</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>CSC</td>
+              <td class="centerText">150</td>
+              <td class="centerText">Programming 1</td>
+              <td class="rightText">A</td>
+            </tr>
+            <tr>
+              <td>CSC</td>
+              <td class="centerText">250</td>
+              <td class="centerText">Programming 2</td>
+              <td class="rightText">A</td>
+            </tr>
+            <tr>
+              <td>CSC</td>
+              <td class="centerText">250</td>
+              <td class="centerText">Programming 2</td>
+              <td class="rightText">A</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="section u-full-width">
+        <h5>Classes you've completed
+          <label class="top leftside" id="RecommendedPlus" for="hideRecommended" position="fixed" width="0px;">▶</label>
+        </h5>
+        <input id="hideRecommended" type="checkbox" style="display:none;" data-toggle="fold" checked="checked"/>
+      </div>
+      <div class="section u-full-width" id="Recommended">
+        <table class="twelve columns">
+          <thead>
+            <tr>
+              <th>Prefix</th>
+              <th class="centerText">Number</th>
+              <th class="centerText">Title</th>
+              <th class="rightText">Grade</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>CSC</td>
+              <td class="centerText">150</td>
+              <td class="centerText">Programming 1</td>
+              <td class="rightText">A</td>
+            </tr>
+            <tr>
+              <td>CSC</td>
+              <td class="centerText">250</td>
+              <td class="centerText">Programming 2</td>
+              <td class="rightText">A</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="section u-full-width">
+        <h5 class="u-full-width">For more help, please email or see your advisor</h5>
+      </div>
+      <script>setupRecommendations();</script>
+    </div>
+  </body>
+</html>

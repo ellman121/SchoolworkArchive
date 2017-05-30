@@ -1,0 +1,90 @@
+html(lang="en")
+	head
+		include include.pug
+
+	body
+		.loader#loadingAnimationID
+		.container#bodyContainer
+			.section.header
+				h2 Advising Page
+			hr
+			.section.gpa.u-full-width
+				h5 Information
+				table.twelve.columns
+					tbody
+						tr
+							td Cumulative GPA
+							td.rightText 3.0
+						tr
+							td Major GPA
+							td.rightText 3.0
+						tr
+							td Total Credits
+							td.rightText 60
+						tr
+							td CSC Credits
+							td.rightText 25
+			
+			.section.progress.u-full-width
+				h5 Degree Progress: 50%
+				.progressBar.twelve.columns(data-percent="50%")
+					.progressBarBar
+				hr.u-full-width
+			
+			.section
+				h5 Classes we Recommend
+					label.top.leftside#CompletedPlus(for="hideCompleted" position="fixed" width="0px;") ▶
+				input#hideCompleted(type="checkbox" style="display:none;" data-toggle="fold" checked)
+			.section.u-full-width#Completed
+				table.twelve.columns
+					thead
+						tr
+							th Prefix
+							th.centerText Number
+							th.centerText Title
+							th.rightText Grade
+					tbody
+						tr
+							td CSC
+							td.centerText 150
+							td.centerText Programming 1
+							td.rightText A
+						tr
+							td CSC
+							td.centerText 250
+							td.centerText Programming 2
+							td.rightText A
+						tr
+							td CSC
+							td.centerText 250
+							td.centerText Programming 2
+							td.rightText A
+				
+			.section.u-full-width
+				h5 Classes you've completed
+					label.top.leftside#RecommendedPlus(for="hideRecommended" position="fixed" width="0px;") ▶
+				input#hideRecommended(type="checkbox" style="display:none;" data-toggle="fold" checked)
+			.section.u-full-width#Recommended
+				table.twelve.columns
+					thead
+						tr
+							th Prefix
+							th.centerText Number
+							th.centerText Title
+							th.rightText Grade
+					tbody
+						tr
+							td CSC
+							td.centerText 150
+							td.centerText Programming 1
+							td.rightText A
+						tr
+							td CSC
+							td.centerText 250
+							td.centerText Programming 2
+							td.rightText A
+								
+			.section.u-full-width
+				h5.u-full-width For more help, please email or see your advisor
+								
+			script setupRecommendations();

@@ -1,0 +1,5351 @@
+<xml>
+	<bonerec>
+		<uniqueid>89HS033 </uniqueid>
+		<year>1989 </year>
+		<objectnum>33 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Skull seems to be complete minus tusks, in very fragmentary condition. </remarks>
+		<datefound>1989 </datefound>
+		<elevation>-1.491830 </elevation>
+		<objectid>2349 </objectid>
+		<shapelength>25.230144 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>88HS083 </uniqueid>
+		<year>1988 </year>
+		<objectnum>83 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>5 </element>
+		<subelement>HYOID UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Y-shaped bone -- may be a hyoid? </remarks>
+		<datefound>1988 </datefound>
+		<elevation>-0.589000 </elevation>
+		<objectid>2351 </objectid>
+		<shapelength>0.749648 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>91HS081 </uniqueid>
+		<year>1991 </year>
+		<objectnum>81 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>SPINOUS PROCESS </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Bone has a number, but is not in the old map. </remarks>
+		<datefound>1991 </datefound>
+		<elevation>-1.182000 </elevation>
+		<objectid>2352 </objectid>
+		<shapelength>1.249476 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>91HS074 </uniqueid>
+		<year>1991 </year>
+		<objectnum>74 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>TIBIA </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Bone has a number, but is not in the old map -- tibia? </remarks>
+		<datefound>1991 </datefound>
+		<elevation>-1.967000 </elevation>
+		<objectid>2353 </objectid>
+		<shapelength>3.878469 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>93HS042 </uniqueid>
+		<year>1993 </year>
+		<objectnum>42 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>FEMORAL BALL </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1993 </datefound>
+		<elevation>-2.312750 </elevation>
+		<objectid>2354 </objectid>
+		<shapelength>3.122840 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>90HS031 </uniqueid>
+		<year>1990 </year>
+		<objectnum>31 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>3 </element>
+		<subelement>MANDIBLE UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Old map was significantly off.  Reshoot conducted to check new position, but no further changes made. </remarks>
+		<datefound>1990 </datefound>
+		<elevation>-2.138500 </elevation>
+		<objectid>2356 </objectid>
+		<shapelength>8.551147 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS105 </uniqueid>
+		<year>1992 </year>
+		<objectnum>105 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2371 </objectid>
+		<shapelength>0.376901 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS027 </uniqueid>
+		<year>1989 </year>
+		<objectnum>27 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>FEMUR </subelement>
+		<side>RIGHT </side>
+		<portion>DISTAL </portion>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-0.986500 </elevation>
+		<objectid>2399 </objectid>
+		<shapelength>4.480249 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS028 </uniqueid>
+		<year>1989 </year>
+		<objectnum>28 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>PATELLA </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<articulate>89HS027 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-0.986500 </elevation>
+		<objectid>2400 </objectid>
+		<shapelength>0.632096 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS101 </uniqueid>
+		<year>1992 </year>
+		<objectnum>101 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>ULNA </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS100 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Second reshoot.  Several dissimilar bones are listed as 'ulna' in old map.  Is this accurate? </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.655000 </elevation>
+		<objectid>2417 </objectid>
+		<shapelength>5.221350 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS103 </uniqueid>
+		<year>1992 </year>
+		<objectnum>103 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>ULNA </subelement>
+		<completeness>PC </completeness>
+		<articulate>92HS100 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Second reshoot.  Several dissimilar bones are listed as 'ulna' in old map.  Is this accurate? </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.655000 </elevation>
+		<objectid>2452 </objectid>
+		<shapelength>1.975652 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS389 </uniqueid>
+		<year>2000 </year>
+		<objectnum>389 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>11 </element>
+		<subelement>PELVIS UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>In a very poor location for photography and measurement -- the center of the specimen is extremely fragmented. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.672880 </elevation>
+		<objectid>2458 </objectid>
+		<shapelength>56.654149 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS013 </uniqueid>
+		<year>1992 </year>
+		<objectnum>13 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Listed as 'pelvis' in old map.  Looks nothing like a pelvis. </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.840750 </elevation>
+		<objectid>2362 </objectid>
+		<shapelength>2.066187 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS012 </uniqueid>
+		<year>1992 </year>
+		<objectnum>12 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1992 </datefound>
+		<elevation>-1.625500 </elevation>
+		<objectid>2363 </objectid>
+		<shapelength>0.404764 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>76HS194 </uniqueid>
+		<year>1976 </year>
+		<objectnum>194 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>11 </element>
+		<subelement>PELVIS UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Listed as 'vertebra' in old map.  Looks nothing like a vertebra. </remarks>
+		<datefound>1976 </datefound>
+		<elevation>-1.577000 </elevation>
+		<objectid>2364 </objectid>
+		<shapelength>8.192866 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>90HS050 </uniqueid>
+		<year>1990 </year>
+		<objectnum>50 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>May or may not be 90HS050 -- it is rotated 90 degrees in the old map. </remarks>
+		<datefound>1990 </datefound>
+		<elevation>-1.841000 </elevation>
+		<objectid>2366 </objectid>
+		<shapelength>2.085792 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS153 </uniqueid>
+		<year>1979 </year>
+		<objectnum>153 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1979 </datefound>
+		<elevation>-1.405170 </elevation>
+		<objectid>2367 </objectid>
+		<shapelength>10.348655 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>91HS032 </uniqueid>
+		<year>1991 </year>
+		<objectnum>32 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Reshot, so as not to clip with skull. </remarks>
+		<datefound>1991 </datefound>
+		<elevation>-2.005500 </elevation>
+		<objectid>2369 </objectid>
+		<shapelength>3.802177 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>91HS028 </uniqueid>
+		<year>1991 </year>
+		<objectnum>28 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Reshot. </remarks>
+		<datefound>1991 </datefound>
+		<elevation>-2.005500 </elevation>
+		<objectid>2370 </objectid>
+		<shapelength>2.493795 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS106 </uniqueid>
+		<year>1992 </year>
+		<objectnum>106 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2372 </objectid>
+		<shapelength>0.442825 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS100 </uniqueid>
+		<year>1992 </year>
+		<objectnum>100 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>ULNA </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Second reshoot to deliminate distortion.  One of several nearby dissimilar bones described as 'ulna' in old map </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.655000 </elevation>
+		<objectid>2415 </objectid>
+		<shapelength>2.750548 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>95HS031 </uniqueid>
+		<year>1995 </year>
+		<objectnum>31 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Double-check last number file for this material </remarks>
+		<datefound>1995 </datefound>
+		<elevation>-2.464250 </elevation>
+		<objectid>2455 </objectid>
+		<shapelength>1.451881 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS104 </uniqueid>
+		<year>1992 </year>
+		<objectnum>104 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>METACARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2373 </objectid>
+		<shapelength>1.452583 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS108 </uniqueid>
+		<year>1992 </year>
+		<objectnum>108 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2374 </objectid>
+		<shapelength>0.710684 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS109 </uniqueid>
+		<year>1992 </year>
+		<objectnum>109 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2375 </objectid>
+		<shapelength>0.357075 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>94HS064 </uniqueid>
+		<year>1994 </year>
+		<objectnum>64 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1994 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2376 </objectid>
+		<shapelength>0.669884 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>94HS065 </uniqueid>
+		<year>1994 </year>
+		<objectnum>65 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1994 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2377 </objectid>
+		<shapelength>0.295261 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>94HS066 </uniqueid>
+		<year>1994 </year>
+		<objectnum>66 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1994 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2378 </objectid>
+		<shapelength>1.047337 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>94HS063 </uniqueid>
+		<year>1994 </year>
+		<objectnum>63 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1994 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2379 </objectid>
+		<shapelength>1.112206 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>94HS062 </uniqueid>
+		<year>1994 </year>
+		<objectnum>62 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>1994 </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>2380 </objectid>
+		<shapelength>0.345446 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS029 </uniqueid>
+		<year>1989 </year>
+		<objectnum>29 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>TIBIA </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PC </completeness>
+		<articulate>89HS027 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.007750 </elevation>
+		<objectid>2392 </objectid>
+		<shapelength>4.405818 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS030 </uniqueid>
+		<year>1989 </year>
+		<objectnum>30 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>FIBULA </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PC </completeness>
+		<articulate>89HS027 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.007750 </elevation>
+		<objectid>2393 </objectid>
+		<shapelength>1.564987 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS110 </uniqueid>
+		<year>1992 </year>
+		<objectnum>110 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>3 </element>
+		<subelement>MANDIBLE UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Reshoot, so as to correct distortion. </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.627750 </elevation>
+		<objectid>2396 </objectid>
+		<shapelength>6.393686 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS019 </uniqueid>
+		<year>1989 </year>
+		<objectnum>19 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>FIBULA </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.514000 </elevation>
+		<objectid>2401 </objectid>
+		<shapelength>1.867429 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS018 </uniqueid>
+		<year>1989 </year>
+		<objectnum>18 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>TIBIA </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.514000 </elevation>
+		<objectid>2403 </objectid>
+		<shapelength>3.644587 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS016 </uniqueid>
+		<year>1989 </year>
+		<objectnum>16 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>FEMUR </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.122670 </elevation>
+		<objectid>2404 </objectid>
+		<shapelength>7.519100 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS017 </uniqueid>
+		<year>1989 </year>
+		<objectnum>17 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>PATELLA </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.122670 </elevation>
+		<objectid>2405 </objectid>
+		<shapelength>0.619884 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS020 </uniqueid>
+		<year>1989 </year>
+		<objectnum>20 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>15 </element>
+		<subelement>TARSAL UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.434000 </elevation>
+		<objectid>2406 </objectid>
+		<shapelength>0.321186 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS021 </uniqueid>
+		<year>1989 </year>
+		<objectnum>21 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PE </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Probable tarsal, but very large. </remarks>
+		<datefound>1989 </datefound>
+		<elevation>-1.434000 </elevation>
+		<objectid>2407 </objectid>
+		<shapelength>3.466131 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS022 </uniqueid>
+		<year>1989 </year>
+		<objectnum>22 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>15 </element>
+		<subelement>METATARSAL UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>PE </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.434000 </elevation>
+		<objectid>2408 </objectid>
+		<shapelength>0.525930 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS023 </uniqueid>
+		<year>1989 </year>
+		<objectnum>23 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>15 </element>
+		<subelement>METATARSAL UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.434000 </elevation>
+		<objectid>2409 </objectid>
+		<shapelength>1.380861 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS024 </uniqueid>
+		<year>1989 </year>
+		<objectnum>24 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>15 </element>
+		<subelement>METATARSAL UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.434000 </elevation>
+		<objectid>2410 </objectid>
+		<shapelength>1.596080 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS025 </uniqueid>
+		<year>1989 </year>
+		<objectnum>25 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>15 </element>
+		<subelement>TARSAL UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>PE </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.434000 </elevation>
+		<objectid>2411 </objectid>
+		<shapelength>0.258373 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS026 </uniqueid>
+		<year>1989 </year>
+		<objectnum>26 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>15 </element>
+		<subelement>TARSAL UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>PE </completeness>
+		<articulate>89HS016 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1989 </datefound>
+		<elevation>-1.434000 </elevation>
+		<objectid>2412 </objectid>
+		<shapelength>0.251089 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>90HS051 </uniqueid>
+		<year>1990 </year>
+		<objectnum>51 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Horrible distortion on this bone as a result of perspective. </remarks>
+		<datefound>1990 </datefound>
+		<elevation>-2.214670 </elevation>
+		<objectid>2414 </objectid>
+		<shapelength>17.097640 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>92HS102 </uniqueid>
+		<year>1992 </year>
+		<objectnum>102 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>RADIUS </subelement>
+		<completeness>CO </completeness>
+		<articulate>92HS102 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Second reshoot.  North gracile limb element </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.655000 </elevation>
+		<objectid>2451 </objectid>
+		<shapelength>3.857388 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>90HS071 </uniqueid>
+		<year>1990 </year>
+		<objectnum>71 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>11 </element>
+		<subelement>PELVIS UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>PC </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Reshoot to eliminate distortion.  Used stick-and-level method. </remarks>
+		<datefound>1990 </datefound>
+		<elevation>-1.734170 </elevation>
+		<objectid>2457 </objectid>
+		<shapelength>6.433206 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS369 </uniqueid>
+		<year>2000 </year>
+		<objectnum>369 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below wooly skull </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.328750 </elevation>
+		<objectid>2575 </objectid>
+		<shapelength>0.471759 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS370 </uniqueid>
+		<year>2000 </year>
+		<objectnum>370 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below wooly skull </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.328750 </elevation>
+		<objectid>2576 </objectid>
+		<shapelength>0.914704 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS038 </uniqueid>
+		<year>2004 </year>
+		<objectnum>38 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-2.529500 </elevation>
+		<objectid>2577 </objectid>
+		<shapelength>1.890998 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS037 </uniqueid>
+		<year>2004 </year>
+		<objectnum>37 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-2.408750 </elevation>
+		<objectid>2578 </objectid>
+		<shapelength>1.122594 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS406 </uniqueid>
+		<year>2000 </year>
+		<objectnum>406 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2000 </datefound>
+		<elevation>-2.325750 </elevation>
+		<objectid>2581 </objectid>
+		<shapelength>2.813137 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS175 </uniqueid>
+		<year>2000 </year>
+		<objectnum>175 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below south step </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-2.325750 </elevation>
+		<objectid>2582 </objectid>
+		<shapelength>0.871913 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>87HS047 </uniqueid>
+		<year>1987 </year>
+		<objectnum>47 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1987 </datefound>
+		<elevation>-2.469400 </elevation>
+		<objectid>2583 </objectid>
+		<shapelength>12.911439 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>87HS100 </uniqueid>
+		<year>1987 </year>
+		<objectnum>100 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near / beneath scap </remarks>
+		<datefound>1987 </datefound>
+		<elevation>-2.469400 </elevation>
+		<objectid>2584 </objectid>
+		<shapelength>0.476949 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>87HS072 </uniqueid>
+		<year>1987 </year>
+		<objectnum>72 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North-most Station Two skull </remarks>
+		<datefound>1987 </datefound>
+		<elevation>-1.989670 </elevation>
+		<objectid>2631 </objectid>
+		<shapelength>17.343610 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>91HS050 </uniqueid>
+		<year>1991 </year>
+		<objectnum>50 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>THORACIC </subelement>
+		<completeness>PE </completeness>
+		<expside>CRANIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1991 </datefound>
+		<elevation>-2.431000 </elevation>
+		<objectid>2632 </objectid>
+		<shapelength>3.501837 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>94HS016 </uniqueid>
+		<year>1994 </year>
+		<objectnum>16 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>New Station Two SW columbian skull </remarks>
+		<datefound>1994 </datefound>
+		<elevation>-1.845250 </elevation>
+		<objectid>2633 </objectid>
+		<shapelength>2.088334 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>87HS005 </uniqueid>
+		<year>1987 </year>
+		<objectnum>5 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS PRIMIGENIUS </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West End Wooly </remarks>
+		<datefound>1987 </datefound>
+		<elevation>-1.328750 </elevation>
+		<objectid>2574 </objectid>
+		<shapelength>15.838295 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>94HS017 </uniqueid>
+		<year>1994 </year>
+		<objectnum>17 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB EPIPHYSIS </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of W Station Two columbian skull </remarks>
+		<datefound>1994 </datefound>
+		<elevation>-2.247000 </elevation>
+		<objectid>2634 </objectid>
+		<shapelength>1.985562 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS502 </uniqueid>
+		<year>2000 </year>
+		<objectnum>502 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Adjacent to 87HS072 </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.989670 </elevation>
+		<objectid>2636 </objectid>
+		<shapelength>1.431570 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS501 </uniqueid>
+		<year>2000 </year>
+		<objectnum>501 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Adjacent to 87HS072 </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.989670 </elevation>
+		<objectid>2637 </objectid>
+		<shapelength>1.006495 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>01HS102 </uniqueid>
+		<year>2001 </year>
+		<objectnum>102 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near 04HS097 </remarks>
+		<datefound>2001 </datefound>
+		<elevation>-2.360750 </elevation>
+		<objectid>2638 </objectid>
+		<shapelength>1.910611 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS019 </uniqueid>
+		<year>2004 </year>
+		<objectnum>19 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-1.857250 </elevation>
+		<objectid>2639 </objectid>
+		<shapelength>0.392302 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS097 </uniqueid>
+		<year>2004 </year>
+		<objectnum>97 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Perpendicular to path, long </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-2.360750 </elevation>
+		<objectid>2640 </objectid>
+		<shapelength>0.629032 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS098 </uniqueid>
+		<year>2004 </year>
+		<objectnum>98 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Paralell to path, short </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-2.360750 </elevation>
+		<objectid>2641 </objectid>
+		<shapelength>0.359115 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS100 </uniqueid>
+		<year>2004 </year>
+		<objectnum>100 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-1.857250 </elevation>
+		<objectid>2642 </objectid>
+		<shapelength>0.434947 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS104 </uniqueid>
+		<year>2004 </year>
+		<objectnum>104 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E of W Station Two columbian skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-2.472500 </elevation>
+		<objectid>2643 </objectid>
+		<shapelength>5.874869 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS107 </uniqueid>
+		<year>2004 </year>
+		<objectnum>107 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station Two columbian skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-1.826000 </elevation>
+		<objectid>2690 </objectid>
+		<shapelength>1.804331 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS106 </uniqueid>
+		<year>2004 </year>
+		<objectnum>106 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>15 </element>
+		<subelement>TARSAL UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Tarsal or bone clast? </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-1.638250 </elevation>
+		<objectid>2689 </objectid>
+		<shapelength>2.529084 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>76HS372 </uniqueid>
+		<year>1976 </year>
+		<objectnum>372 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Used 04HS107 and 94HS016 as additional anchor points.  Skull still seems distorted.   May reshoot after the new level comes in. </remarks>
+		<datefound>1976 </datefound>
+		<elevation>-1.407500 </elevation>
+		<objectid>2694 </objectid>
+		<shapelength>24.779298 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS039 </uniqueid>
+		<year>2004 </year>
+		<objectnum>39 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of 76HS372 surrounded by marker clay </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-2.483750 </elevation>
+		<objectid>2764 </objectid>
+		<shapelength>0.312628 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS118 </uniqueid>
+		<year>2004 </year>
+		<objectnum>118 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-2.145250 </elevation>
+		<objectid>2767 </objectid>
+		<shapelength>1.511986 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS170 </uniqueid>
+		<year>2004 </year>
+		<objectnum>170 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-2.053250 </elevation>
+		<objectid>2768 </objectid>
+		<shapelength>3.450718 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS114 </uniqueid>
+		<year>2004 </year>
+		<objectnum>114 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-2.025500 </elevation>
+		<objectid>2769 </objectid>
+		<shapelength>1.450463 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS115 </uniqueid>
+		<year>2004 </year>
+		<objectnum>115 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-2.025500 </elevation>
+		<objectid>2770 </objectid>
+		<shapelength>0.373079 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS112 </uniqueid>
+		<year>2004 </year>
+		<objectnum>112 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-1.917750 </elevation>
+		<objectid>2795 </objectid>
+		<shapelength>1.338581 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS110 </uniqueid>
+		<year>2004 </year>
+		<objectnum>110 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-1.949000 </elevation>
+		<objectid>2796 </objectid>
+		<shapelength>0.419611 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS111 </uniqueid>
+		<year>2004 </year>
+		<objectnum>111 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2004 </datefound>
+		<elevation>-1.949000 </elevation>
+		<objectid>2797 </objectid>
+		<shapelength>1.749454 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS355 </uniqueid>
+		<year>2000 </year>
+		<objectnum>355 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2000 </datefound>
+		<elevation>-1.386750 </elevation>
+		<objectid>2799 </objectid>
+		<shapelength>0.549089 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS354 </uniqueid>
+		<year>2000 </year>
+		<objectnum>354 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2000 </datefound>
+		<elevation>-1.386750 </elevation>
+		<objectid>2800 </objectid>
+		<shapelength>1.685228 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS025 </uniqueid>
+		<year>2004 </year>
+		<objectnum>25 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>SPINOUS PROCESS </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Control Point Seven </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-1.192000 </elevation>
+		<objectid>2801 </objectid>
+		<shapelength>1.032704 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS006 </uniqueid>
+		<year>2004 </year>
+		<objectnum>6 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Control Point Seven </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-0.882000 </elevation>
+		<objectid>2802 </objectid>
+		<shapelength>1.538128 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS024 </uniqueid>
+		<year>2006 </year>
+		<objectnum>24 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below Control Point Seven </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-2.055750 </elevation>
+		<objectid>2803 </objectid>
+		<shapelength>0.346701 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS274 </uniqueid>
+		<year>2006 </year>
+		<objectnum>274 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below Control Point Seven </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-2.055750 </elevation>
+		<objectid>2846 </objectid>
+		<shapelength>0.782893 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS360 </uniqueid>
+		<year>2000 </year>
+		<objectnum>360 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station Two white flag </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.154500 </elevation>
+		<objectid>2847 </objectid>
+		<shapelength>9.344843 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS362 </uniqueid>
+		<year>2000 </year>
+		<objectnum>362 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station Two white flag </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.154500 </elevation>
+		<objectid>2848 </objectid>
+		<shapelength>0.556040 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS352 </uniqueid>
+		<year>2000 </year>
+		<objectnum>352 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station Two white flag </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.190750 </elevation>
+		<objectid>2849 </objectid>
+		<shapelength>0.377091 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS356 </uniqueid>
+		<year>2000 </year>
+		<objectnum>256 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station Two white flag </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.190750 </elevation>
+		<objectid>2850 </objectid>
+		<shapelength>2.512436 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>76HS309 </uniqueid>
+		<year>1976 </year>
+		<objectnum>309 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station Two white flag </remarks>
+		<datefound>1976 </datefound>
+		<elevation>-1.140000 </elevation>
+		<objectid>2852 </objectid>
+		<shapelength>3.653189 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS358 </uniqueid>
+		<year>2000 </year>
+		<objectnum>358 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station Two white flag </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.140000 </elevation>
+		<objectid>2853 </objectid>
+		<shapelength>1.102979 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>90HS015 </uniqueid>
+		<year>1990 </year>
+		<objectnum>15 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Clump N of Station Two S skull </remarks>
+		<datefound>1990 </datefound>
+		<elevation>-1.894500 </elevation>
+		<objectid>2866 </objectid>
+		<shapelength>1.090383 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS265 </uniqueid>
+		<year>2006 </year>
+		<objectnum>265 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Clump N of Station Two S skull </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-1.894500 </elevation>
+		<objectid>2867 </objectid>
+		<shapelength>1.075243 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS095 </uniqueid>
+		<year>2004 </year>
+		<objectnum>95 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>FEMORAL BALL </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E of Station Two S skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-1.816250 </elevation>
+		<objectid>2870 </objectid>
+		<shapelength>1.761357 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>76HS293 </uniqueid>
+		<year>1976 </year>
+		<objectnum>293 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station Two white flag </remarks>
+		<datefound>1976 </datefound>
+		<elevation>-1.168500 </elevation>
+		<objectid>2871 </objectid>
+		<shapelength>11.549400 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>89HS005 </uniqueid>
+		<year>1989 </year>
+		<objectnum>5 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Tusk NW of Station One </remarks>
+		<datefound>1989 </datefound>
+		<elevation>-1.804250 </elevation>
+		<objectid>2873 </objectid>
+		<shapelength>8.055769 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS334 </uniqueid>
+		<year>2000 </year>
+		<objectnum>334 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station One </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.436500 </elevation>
+		<objectid>2874 </objectid>
+		<shapelength>1.602648 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS005 </uniqueid>
+		<year>2006 </year>
+		<objectnum>5 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>GLENOID FOSSA </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Strange bone w/circular feature -- glenoid fossa of scapula.  Near Station One </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-1.673500 </elevation>
+		<objectid>2875 </objectid>
+		<shapelength>2.235792 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS042 </uniqueid>
+		<year>2004 </year>
+		<objectnum>42 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station One </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-2.045500 </elevation>
+		<objectid>2876 </objectid>
+		<shapelength>2.324740 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS031 </uniqueid>
+		<year>2004 </year>
+		<objectnum>31 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>CERVICAL II ATLAS </subelement>
+		<completeness>CO </completeness>
+		<expside>CRANIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station One </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-2.045500 </elevation>
+		<objectid>2877 </objectid>
+		<shapelength>2.169525 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS023 </uniqueid>
+		<year>2006 </year>
+		<objectnum>23 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below Control Point Seven </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-2.055750 </elevation>
+		<objectid>2844 </objectid>
+		<shapelength>2.871095 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS119 </uniqueid>
+		<year>2004 </year>
+		<objectnum>119 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>NEURAL ARCH </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>N of Station Two S skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-2.205250 </elevation>
+		<objectid>2854 </objectid>
+		<shapelength>1.205529 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS120 </uniqueid>
+		<year>2004 </year>
+		<objectnum>120 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Directly N of Station Two S skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-1.851000 </elevation>
+		<objectid>2855 </objectid>
+		<shapelength>0.547702 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS116 </uniqueid>
+		<year>2004 </year>
+		<objectnum>116 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>N of Station Two S skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-2.004250 </elevation>
+		<objectid>2856 </objectid>
+		<shapelength>0.789237 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS121 </uniqueid>
+		<year>2004 </year>
+		<objectnum>121 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Directly N of Station Two S skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-1.872500 </elevation>
+		<objectid>2857 </objectid>
+		<shapelength>1.802789 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>91HS053 </uniqueid>
+		<year>1991 </year>
+		<objectnum>53 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>N of Station Two S skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-1.756000 </elevation>
+		<objectid>2858 </objectid>
+		<shapelength>2.418853 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS349 </uniqueid>
+		<year>2000 </year>
+		<objectnum>349 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>W of Station Two S skull </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.369500 </elevation>
+		<objectid>2860 </objectid>
+		<shapelength>2.247999 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS347 </uniqueid>
+		<year>2000 </year>
+		<objectnum>347 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<completeness>PE </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>W of Station Two S skull </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.369500 </elevation>
+		<objectid>2861 </objectid>
+		<shapelength>7.517069 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS344 </uniqueid>
+		<year>2000 </year>
+		<objectnum>344 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Small fragment W of Station Two S skull </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.369500 </elevation>
+		<objectid>2862 </objectid>
+		<shapelength>1.661194 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS167 </uniqueid>
+		<year>2006 </year>
+		<objectnum>167 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>N of Station Two S skull </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-1.940000 </elevation>
+		<objectid>2863 </objectid>
+		<shapelength>1.151191 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS266 </uniqueid>
+		<year>2006 </year>
+		<objectnum>266 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>N of Station Two S skull </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-1.940000 </elevation>
+		<objectid>2864 </objectid>
+		<shapelength>0.690865 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>90HS014 </uniqueid>
+		<year>2006 </year>
+		<objectnum>14 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Clump N of Station Two S skull </remarks>
+		<datefound>1990 </datefound>
+		<elevation>-1.894500 </elevation>
+		<objectid>2865 </objectid>
+		<shapelength>1.489079 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS586 </uniqueid>
+		<year>2006 </year>
+		<objectnum>586 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Small for mammoth.  Near Station One </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-1.920500 </elevation>
+		<objectid>2895 </objectid>
+		<shapelength>0.299956 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS307 </uniqueid>
+		<year>2006 </year>
+		<objectnum>307 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>NEURAL ARCH </subelement>
+		<completeness>CO </completeness>
+		<expside>CRANIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near Station One </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-1.920500 </elevation>
+		<objectid>2896 </objectid>
+		<shapelength>2.366175 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>76HS336 </uniqueid>
+		<year>1976 </year>
+		<objectnum>336 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>11 </element>
+		<subelement>PELVIS UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Number covered in brown gloop.  Number uncertain </remarks>
+		<datefound>1976 </datefound>
+		<elevation>-1.894000 </elevation>
+		<objectid>2897 </objectid>
+		<shapelength>5.108740 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS327 </uniqueid>
+		<year>2006 </year>
+		<objectnum>327 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB EPIPHYSIS </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Directly below Station One </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-1.692500 </elevation>
+		<objectid>2898 </objectid>
+		<shapelength>0.728609 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS194 </uniqueid>
+		<year>2007 </year>
+		<objectnum>194 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Ivory fragment near Station One </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-1.855500 </elevation>
+		<objectid>2899 </objectid>
+		<shapelength>0.245244 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS326 </uniqueid>
+		<year>2000 </year>
+		<objectnum>326 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>4 </element>
+		<subelement>TOOTH UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>The exposed side is the occlusal surface.  E of Station 1. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-1.772500 </elevation>
+		<objectid>2900 </objectid>
+		<shapelength>2.626898 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>86HS047 </uniqueid>
+		<year>1986 </year>
+		<objectnum>47 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>White rib near Murray's Neck area. </remarks>
+		<datefound>1986 </datefound>
+		<foundby>` </foundby>
+		<elevation>-0.262000 </elevation>
+		<objectid>2901 </objectid>
+		<shapelength>4.166965 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>86HS083 </uniqueid>
+		<year>1986 </year>
+		<objectnum>83 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of Murray's Neck area. </remarks>
+		<datefound>1986 </datefound>
+		<elevation>-0.566750 </elevation>
+		<objectid>2902 </objectid>
+		<shapelength>1.675941 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>86HS052 </uniqueid>
+		<year>1986 </year>
+		<objectnum>52 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>SPINOUS PROCESS </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area. </remarks>
+		<datefound>1986 </datefound>
+		<elevation>-0.345250 </elevation>
+		<objectid>2907 </objectid>
+		<shapelength>2.828875 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS248 </uniqueid>
+		<year>1983 </year>
+		<objectnum>248 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>HUMERUS </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Check orientation.  West of Murray's Neck area. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.237170 </elevation>
+		<objectid>2921 </objectid>
+		<shapelength>10.334340 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>86HS056 </uniqueid>
+		<year>1986 </year>
+		<objectnum>56 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area, below 83HS248 humerus. </remarks>
+		<datefound>1986 </datefound>
+		<elevation>-0.237170 </elevation>
+		<objectid>2922 </objectid>
+		<shapelength>3.181339 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS425 </uniqueid>
+		<year>2000 </year>
+		<objectnum>425 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>SPINOUS PROCESS </subelement>
+		<portion>DISTAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Initially identified as rib. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.237170 </elevation>
+		<objectid>2923 </objectid>
+		<shapelength>0.698659 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS424 </uniqueid>
+		<year>2000 </year>
+		<objectnum>424 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>SPINOUS PROCESS </subelement>
+		<portion>DISTAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Intially identified as rib. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.237170 </elevation>
+		<objectid>2924 </objectid>
+		<shapelength>0.763702 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS246 </uniqueid>
+		<year>1983 </year>
+		<objectnum>246 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Tusk south-west of Murray's Neck area.  Horrible camera angle.  Number needs fixed. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.213500 </elevation>
+		<objectid>2925 </objectid>
+		<shapelength>15.093376 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS430reshoot </uniqueid>
+		<year>2000 </year>
+		<objectnum>430 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Associated, not articulated, with other carpals. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.265500 </elevation>
+		<objectid>2919 </objectid>
+		<shapelength>1.210573 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS434reshoot </uniqueid>
+		<year>2000 </year>
+		<objectnum>434 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Associated, not articulated, with other carpals. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.265500 </elevation>
+		<objectid>2920 </objectid>
+		<shapelength>0.532489 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>86HS079 </uniqueid>
+		<year>1986 </year>
+		<objectnum>79 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Just west of Murray's Neck area. </remarks>
+		<datefound>1986 </datefound>
+		<elevation>-0.343750 </elevation>
+		<objectid>2926 </objectid>
+		<shapelength>1.248156 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS466 </uniqueid>
+		<year>2000 </year>
+		<objectnum>466 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of Murray's Neck area.  East-most of three bones in this photo (112-1282). </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.489250 </elevation>
+		<objectid>2928 </objectid>
+		<shapelength>4.268090 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS520 </uniqueid>
+		<year>2000 </year>
+		<objectnum>520 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of Murray's Neck area.  Middle of three bones in this photo (112-1282). </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.489250 </elevation>
+		<objectid>2929 </objectid>
+		<shapelength>4.408224 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS518 </uniqueid>
+		<year>2000 </year>
+		<objectnum>518 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of Murray's Neck area.  West-most of three bones in this photo (112-1282). </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.489250 </elevation>
+		<objectid>2930 </objectid>
+		<shapelength>1.605693 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS231 </uniqueid>
+		<year>1983 </year>
+		<objectnum>231 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South-most Humpty-Dumpty scapula.  Needs new label. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.176525 </elevation>
+		<objectid>2931 </objectid>
+		<shapelength>12.846372 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS472 </uniqueid>
+		<year>2000 </year>
+		<objectnum>472 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Complete first rib.  North-West of Murray's Neck area. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.328500 </elevation>
+		<objectid>2908 </objectid>
+		<shapelength>4.741569 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>96HS014 </uniqueid>
+		<year>1996 </year>
+		<objectnum>14 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Majority of rib is present.  J rib South-West of Murray's Neck area. </remarks>
+		<datefound>1996 </datefound>
+		<elevation>-0.336250 </elevation>
+		<objectid>2909 </objectid>
+		<shapelength>3.438480 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>96HS026 </uniqueid>
+		<year>1996 </year>
+		<objectnum>26 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Center of three ribs SW of Murray's Neck area in this picture. </remarks>
+		<datefound>1996 </datefound>
+		<elevation>-0.336250 </elevation>
+		<objectid>2910 </objectid>
+		<shapelength>1.642531 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS198 </uniqueid>
+		<year>2007 </year>
+		<objectnum>198 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Seemed to have a 96 number but, label rubbed off, and not present in map.  North-most of three ribs South-West of Murray's Necka area in this picture. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-0.336250 </elevation>
+		<objectid>2911 </objectid>
+		<shapelength>2.399687 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS197reshoot </uniqueid>
+		<year>2007 </year>
+		<objectnum>197 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Associated, not articulated, with other carpals. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-0.265500 </elevation>
+		<objectid>2912 </objectid>
+		<shapelength>1.185131 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS432reshoot </uniqueid>
+		<year>2000 </year>
+		<objectnum>432 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Associated, not articulated, with other carpals. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.265500 </elevation>
+		<objectid>2913 </objectid>
+		<shapelength>1.917251 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS470reshoot </uniqueid>
+		<year>2000 </year>
+		<objectnum>470 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Associated, not articulated, with other carpals. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.265500 </elevation>
+		<objectid>2915 </objectid>
+		<shapelength>1.173246 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS468reshoot </uniqueid>
+		<year>2000 </year>
+		<objectnum>468 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Associated, not articulated, with other carpals. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.265500 </elevation>
+		<objectid>2916 </objectid>
+		<shapelength>1.214425 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS431reshoot </uniqueid>
+		<year>2000 </year>
+		<objectnum>431 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of Murray's Neck area.  Associated, not articulated, with other carpals. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-0.265500 </elevation>
+		<objectid>2917 </objectid>
+		<shapelength>0.840457 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS245 </uniqueid>
+		<year>1983 </year>
+		<objectnum>245 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Piercing Murray's left side.  Very large.  Needs new label. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.339330 </elevation>
+		<objectid>2932 </objectid>
+		<shapelength>12.248125 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS187 </uniqueid>
+		<year>1983 </year>
+		<objectnum>187 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>CERVICAL I AXIS </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>MALE </gender>
+		<remarks>Previously 83HS187-4.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.301500 </elevation>
+		<objectid>2933 </objectid>
+		<shapelength>3.320535 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS264 </uniqueid>
+		<year>1983 </year>
+		<objectnum>264 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>CERVICAL II ATLAS </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Formerly 83HS187-5 / 00HS476.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.301500 </elevation>
+		<objectid>2934 </objectid>
+		<shapelength>2.324460 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS265 </uniqueid>
+		<year>1983 </year>
+		<objectnum>265 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>CERVICAL III </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Formerly 83HS187-6 / 00HS040.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.301500 </elevation>
+		<objectid>2935 </objectid>
+		<shapelength>1.688668 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS266 </uniqueid>
+		<year>1983 </year>
+		<objectnum>266 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>CERVICAL IV </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Formerly 83HS187-7.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.301500 </elevation>
+		<objectid>2936 </objectid>
+		<shapelength>2.000628 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS267 </uniqueid>
+		<year>1983 </year>
+		<objectnum>267 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>CERVICAL V </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Formerly 83HS187-8.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.301500 </elevation>
+		<objectid>2937 </objectid>
+		<shapelength>2.099805 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS268 </uniqueid>
+		<year>1983 </year>
+		<objectnum>268 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>CERVICAL VI </subelement>
+		<completeness>PE </completeness>
+		<expside>LATERAL </expside>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Formerly 83HS187-9.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.301500 </elevation>
+		<objectid>2938 </objectid>
+		<shapelength>0.804852 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS269 </uniqueid>
+		<year>1983 </year>
+		<objectnum>269 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<completeness>PE </completeness>
+		<expside>MEDIAL </expside>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Under Murray's neck (83HS187 and articulated).  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.301500 </elevation>
+		<objectid>2939 </objectid>
+		<shapelength>7.923322 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS270 </uniqueid>
+		<year>1983 </year>
+		<objectnum>270 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>HUMERUS </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>CAUDAL </expside>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Formerly part of 83HS187.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.244500 </elevation>
+		<objectid>2940 </objectid>
+		<shapelength>12.180142 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS271 </uniqueid>
+		<year>1983 </year>
+		<objectnum>271 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>ULNA </subelement>
+		<side>RIGHT </side>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<expside>CAUDAL </expside>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Formerly part of 83HS187.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.127750 </elevation>
+		<objectid>2941 </objectid>
+		<shapelength>4.642232 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS234 </uniqueid>
+		<year>1983 </year>
+		<objectnum>234 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>HUMERUS </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Below 83HS171 humerus.  ID'd as in old map -- doubtful humerus. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.159750 </elevation>
+		<objectid>5154 </objectid>
+		<shapelength>8.530610 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS171 </uniqueid>
+		<year>1983 </year>
+		<objectnum>171 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>HUMERUS </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Top humerus in pile.   </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.159750 </elevation>
+		<objectid>5155 </objectid>
+		<shapelength>12.603305 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS228 </uniqueid>
+		<year>1979 </year>
+		<objectnum>228 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>LUNAR </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5181 </objectid>
+		<shapelength>0.936180 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS227 </uniqueid>
+		<year>1979 </year>
+		<objectnum>227 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CUNIFORM </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5182 </objectid>
+		<shapelength>0.861847 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS226 </uniqueid>
+		<year>1979 </year>
+		<objectnum>226 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>METACARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5183 </objectid>
+		<shapelength>1.366223 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS225 </uniqueid>
+		<year>1979 </year>
+		<objectnum>225 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>LEG EPIPHYSIS </subelement>
+		<completeness>CO </completeness>
+		<articulate>79HS224 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5184 </objectid>
+		<shapelength>1.717266 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS233 </uniqueid>
+		<year>1979 </year>
+		<objectnum>233 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>13 </element>
+		<subelement>PHALANX UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5185 </objectid>
+		<shapelength>1.319207 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS231 </uniqueid>
+		<year>1979 </year>
+		<objectnum>231 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>TRAPEZOID </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5186 </objectid>
+		<shapelength>0.761981 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS239 </uniqueid>
+		<year>1979 </year>
+		<objectnum>239 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>METACARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5187 </objectid>
+		<shapelength>0.440706 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS240 </uniqueid>
+		<year>1979 </year>
+		<objectnum>240 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>METACARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5188 </objectid>
+		<shapelength>0.393352 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS230 </uniqueid>
+		<year>1979 </year>
+		<objectnum>230 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>TRAPEZOID </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5189 </objectid>
+		<shapelength>1.149824 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS242 </uniqueid>
+		<year>1979 </year>
+		<objectnum>242 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>PISIFORM </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull.  Covered in gloop. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5190 </objectid>
+		<shapelength>2.556566 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>86HS082 </uniqueid>
+		<year>1986 </year>
+		<objectnum>82 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West most of the 3 columbian skulls. </remarks>
+		<datefound>1986 </datefound>
+		<elevation>0.012500 </elevation>
+		<objectid>5191 </objectid>
+		<shapelength>4.353864 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS213 </uniqueid>
+		<year>2000 </year>
+		<objectnum>213 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East end, E of Napoleon </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-5.447000 </elevation>
+		<objectid>5192 </objectid>
+		<shapelength>7.370404 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS67 </uniqueid>
+		<year>2004 </year>
+		<objectnum>67 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>FEMALE </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.447000 </elevation>
+		<objectid>5193 </objectid>
+		<shapelength>1.247175 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS242 </uniqueid>
+		<year>2000 </year>
+		<objectnum>242 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.395000 </elevation>
+		<objectid>5194 </objectid>
+		<shapelength>0.442807 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS247 </uniqueid>
+		<year>2000 </year>
+		<objectnum>247 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.349500 </elevation>
+		<objectid>5197 </objectid>
+		<shapelength>1.730116 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS248 </uniqueid>
+		<year>2000 </year>
+		<objectnum>248 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon.  Possibly distal end. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-5.325000 </elevation>
+		<objectid>5198 </objectid>
+		<shapelength>0.993110 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS199 </uniqueid>
+		<year>2007 </year>
+		<objectnum>199 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-0.271000 </elevation>
+		<objectid>5151 </objectid>
+		<shapelength>2.742796 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS200 </uniqueid>
+		<year>2007 </year>
+		<objectnum>200 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-0.258750 </elevation>
+		<objectid>5152 </objectid>
+		<shapelength>4.534416 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS201 </uniqueid>
+		<year>2007 </year>
+		<objectnum>201 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<articulate>07HS202 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Formerly part of 83HS232. </remarks>
+		<datefound>7/07 </datefound>
+		<elevation>-0.183000 </elevation>
+		<objectid>5156 </objectid>
+		<shapelength>0.423978 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS202 </uniqueid>
+		<year>2007 </year>
+		<objectnum>202 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>METACARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Formerly part of 83HS232. </remarks>
+		<datefound>7/07 </datefound>
+		<elevation>-0.183000 </elevation>
+		<objectid>5157 </objectid>
+		<shapelength>1.706541 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS203 </uniqueid>
+		<year>2007 </year>
+		<objectnum>203 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>07HS202 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Formerly part of 83HS232. </remarks>
+		<datefound>7/07 </datefound>
+		<elevation>-0.183000 </elevation>
+		<objectid>5158 </objectid>
+		<shapelength>0.468284 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS232 </uniqueid>
+		<year>1983 </year>
+		<objectnum>232 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>07HS202 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Formerly 07HS204. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.183000 </elevation>
+		<objectid>5159 </objectid>
+		<shapelength>1.013113 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS205 </uniqueid>
+		<year>2007 </year>
+		<objectnum>205 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>07HS202 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Formerly part of 83HS232. </remarks>
+		<datefound>7/07 </datefound>
+		<elevation>-0.183000 </elevation>
+		<objectid>5160 </objectid>
+		<shapelength>0.749416 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS206 </uniqueid>
+		<year>2007 </year>
+		<objectnum>206 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>07HS202 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Formerly part of 83HS232. </remarks>
+		<datefound>7/07 </datefound>
+		<elevation>-0.183000 </elevation>
+		<objectid>5161 </objectid>
+		<shapelength>1.770797 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS207 </uniqueid>
+		<year>2007 </year>
+		<objectnum>207 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>METACARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>07HS202 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty.  Formerly part of 83HS232. </remarks>
+		<datefound>7/07 </datefound>
+		<elevation>-0.183000 </elevation>
+		<objectid>5162 </objectid>
+		<shapelength>2.175180 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS208 </uniqueid>
+		<year>2007 </year>
+		<objectnum>208 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>METACARPAL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<articulate>07HS202 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of Murray's Neck area, south of Humpty Dumpty. </remarks>
+		<datefound>7/07 </datefound>
+		<elevation>-0.183000 </elevation>
+		<objectid>5163 </objectid>
+		<shapelength>1.492425 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS272 </uniqueid>
+		<year>1983 </year>
+		<objectnum>272 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<articulate>83HS187 </articulate>
+		<gender>MALE </gender>
+		<remarks>Formerly HS00066.  Murray. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>-0.059000 </elevation>
+		<objectid>5164 </objectid>
+		<shapelength>16.798361 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS077 </uniqueid>
+		<year>2004 </year>
+		<objectnum>77 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near 04HS080.  Shattered. East of Napoleon. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.898000 </elevation>
+		<objectid>5167 </objectid>
+		<shapelength>1.840383 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS079 </uniqueid>
+		<year>2004 </year>
+		<objectnum>79 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Near 04hs080 east of Napoleon. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.898000 </elevation>
+		<objectid>5168 </objectid>
+		<shapelength>0.569468 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS080 </uniqueid>
+		<year>2004 </year>
+		<objectnum>80 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB EPIPHYSIS </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Large crack east of Napoleon. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.898000 </elevation>
+		<objectid>5169 </objectid>
+		<shapelength>1.795452 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS167 </uniqueid>
+		<year>1983 </year>
+		<objectnum>167 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>3 </element>
+		<subelement>MANDIBLE UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>DORSAL </expside>
+		<articulate>83HS166 </articulate>
+		<gender>MALE </gender>
+		<remarks>Associated with 'shaved tusk' mammoth skull -- Humpty Dumpty. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>0.467250 </elevation>
+		<objectid>5170 </objectid>
+		<shapelength>13.896255 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>83HS166 </uniqueid>
+		<year>1983 </year>
+		<objectnum>166 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>MALE </gender>
+		<remarks>'Shaved tusk' mammoth -- Humpty Dumpty. </remarks>
+		<datefound>1983 </datefound>
+		<elevation>0.595429 </elevation>
+		<objectid>5171 </objectid>
+		<shapelength>19.264584 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS159 </uniqueid>
+		<year>2007 </year>
+		<objectnum>159 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Does not correspond with any bone currently in map -- new number given. </remarks>
+		<datefound>1975? (label) </datefound>
+		<elevation>-1.608000 </elevation>
+		<objectid>5122 </objectid>
+		<shapelength>1.817458 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS160 </uniqueid>
+		<year>2007 </year>
+		<objectnum>160 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>Unknown </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>5123 </objectid>
+		<shapelength>0.266485 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS161 </uniqueid>
+		<year>2007 </year>
+		<objectnum>161 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>Unknown </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>5124 </objectid>
+		<shapelength>0.313330 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS162 </uniqueid>
+		<year>2007 </year>
+		<objectnum>162 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>14 </element>
+		<subelement>CARPAL UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Label is clear, but old map shows this bone far away in the bone bed. </remarks>
+		<datefound>Unknown </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>5125 </objectid>
+		<shapelength>1.088043 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS163 </uniqueid>
+		<year>2007 </year>
+		<objectnum>163 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PE </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Large bone, shape difficult to discern through brown gloop. </remarks>
+		<datefound>Unknown </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>5126 </objectid>
+		<shapelength>0.575758 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS164 </uniqueid>
+		<year>2007 </year>
+		<objectnum>164 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PE </completeness>
+		<articulate>92HS104 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Large bone, shape difficult to discern through brown gloop. </remarks>
+		<datefound>Unknown </datefound>
+		<elevation>-1.836000 </elevation>
+		<objectid>5127 </objectid>
+		<shapelength>0.970141 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS165 </uniqueid>
+		<year>2007 </year>
+		<objectnum>165 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>VERTEBRAL DISC </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Half of bone is still in matrix. </remarks>
+		<datefound>Unknown </datefound>
+		<elevation>-0.674750 </elevation>
+		<objectid>5128 </objectid>
+		<shapelength>1.008218 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS223 </uniqueid>
+		<year>1979 </year>
+		<objectnum>223 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Betwixt HD and Murray. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5172 </objectid>
+		<shapelength>18.508194 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS210 </uniqueid>
+		<year>2007 </year>
+		<objectnum>210 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>Unknown </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5173 </objectid>
+		<shapelength>0.957367 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS166 </uniqueid>
+		<year>2007 </year>
+		<objectnum>166 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>VERTEBRAL DISC </subelement>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Fully prepped out, but with no visible field number. </remarks>
+		<datefound>Unknown </datefound>
+		<elevation>-1.030500 </elevation>
+		<objectid>5129 </objectid>
+		<shapelength>2.566085 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS167 </uniqueid>
+		<year>2007 </year>
+		<objectnum>167 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>Unknown </datefound>
+		<elevation>-1.584000 </elevation>
+		<objectid>5130 </objectid>
+		<shapelength>0.813369 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS168 </uniqueid>
+		<year>2007 </year>
+		<objectnum>168 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>Unknown </datefound>
+		<elevation>-2.269500 </elevation>
+		<objectid>5131 </objectid>
+		<shapelength>1.719813 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS169 </uniqueid>
+		<year>2007 </year>
+		<objectnum>169 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>1992 </datefound>
+		<elevation>-1.655000 </elevation>
+		<objectid>5132 </objectid>
+		<shapelength>0.403303 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS170 </uniqueid>
+		<year>2007 </year>
+		<objectnum>170 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>HUMERUS </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PE </completeness>
+		<articulate>92HS100 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Tentative identification, as much of the bone remains buried. </remarks>
+		<datefound>1992 </datefound>
+		<elevation>-1.655000 </elevation>
+		<objectid>5133 </objectid>
+		<shapelength>3.450805 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS171 </uniqueid>
+		<year>2007 </year>
+		<objectnum>171 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Unknown bone, E-P area. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-1.742750 </elevation>
+		<objectid>5134 </objectid>
+		<shapelength>0.889007 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS172 </uniqueid>
+		<year>2007 </year>
+		<objectnum>172 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Brown gloop, no visible # </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-1.128250 </elevation>
+		<objectid>5135 </objectid>
+		<shapelength>1.893981 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS173 </uniqueid>
+		<year>2007 </year>
+		<objectnum>173 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below south step </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-2.091750 </elevation>
+		<objectid>5136 </objectid>
+		<shapelength>2.029327 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS174 </uniqueid>
+		<year>2007 </year>
+		<objectnum>174 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below south step </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-2.333500 </elevation>
+		<objectid>5137 </objectid>
+		<shapelength>1.337458 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS176 </uniqueid>
+		<year>2007 </year>
+		<objectnum>176 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Brown-goopified string of stuff near orange-flagged stake. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-2.370250 </elevation>
+		<objectid>5138 </objectid>
+		<shapelength>4.814025 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS177 </uniqueid>
+		<year>2007 </year>
+		<objectnum>177 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2007 </datefound>
+		<elevation>-2.432250 </elevation>
+		<objectid>5139 </objectid>
+		<shapelength>3.915701 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS178 </uniqueid>
+		<year>2007 </year>
+		<objectnum>178 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of 94HS017 </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-2.247000 </elevation>
+		<objectid>5140 </objectid>
+		<shapelength>0.599623 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS179 </uniqueid>
+		<year>2007 </year>
+		<objectnum>179 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>SE of 94HS017 </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-2.247000 </elevation>
+		<objectid>5141 </objectid>
+		<shapelength>1.258225 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS180 </uniqueid>
+		<year>2007 </year>
+		<objectnum>180 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Rib near 04HS106 </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-1.638250 </elevation>
+		<objectid>5142 </objectid>
+		<shapelength>1.375346 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS181 </uniqueid>
+		<year>2007 </year>
+		<objectnum>181 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of W Station Two columbian skull, blob covered in calcite </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-2.534250 </elevation>
+		<objectid>5143 </objectid>
+		<shapelength>3.153251 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS182 </uniqueid>
+		<year>2007 </year>
+		<objectnum>182 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>South of W Station Two columbian skull </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-2.534250 </elevation>
+		<objectid>5144 </objectid>
+		<shapelength>1.212160 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS183 </uniqueid>
+		<year>2007 </year>
+		<objectnum>183 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Below, and partially overhung by 76HS372.  Some distortion. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-1.877250 </elevation>
+		<objectid>5145 </objectid>
+		<shapelength>1.574153 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS184 </uniqueid>
+		<year>2007 </year>
+		<objectnum>184 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<datefound>2007 </datefound>
+		<elevation>-2.425750 </elevation>
+		<objectid>5146 </objectid>
+		<shapelength>1.626362 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS185 </uniqueid>
+		<year>2007 </year>
+		<objectnum>185 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>LUMBAR </subelement>
+		<completeness>CO </completeness>
+		<expside>CRANIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>N of Station Two S skull </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-1.756000 </elevation>
+		<objectid>5147 </objectid>
+		<shapelength>2.665036 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS186 </uniqueid>
+		<year>2007 </year>
+		<objectnum>186 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>FEMORAL BALL </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Clump N of Station Two S skull.  Identification tentative. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-1.894500 </elevation>
+		<objectid>5148 </objectid>
+		<shapelength>1.490847 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS187 </uniqueid>
+		<year>2007 </year>
+		<objectnum>187 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>LUMBAR </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Clump N of Station Two S skull </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-1.894500 </elevation>
+		<objectid>5149 </objectid>
+		<shapelength>1.251303 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS234 </uniqueid>
+		<year>1979 </year>
+		<objectnum>234 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull.  May also be a neural spine. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5174 </objectid>
+		<shapelength>1.435787 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS204 </uniqueid>
+		<year>2007 </year>
+		<objectnum>204 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5175 </objectid>
+		<shapelength>1.353355 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS241 </uniqueid>
+		<year>1979 </year>
+		<objectnum>241 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>ULNA </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>CO </completeness>
+		<articulate>79HS224 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5177 </objectid>
+		<shapelength>2.109400 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS224 </uniqueid>
+		<year>1979 </year>
+		<objectnum>224 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>RADIUS </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>North of 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5178 </objectid>
+		<shapelength>1.551923 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS236 </uniqueid>
+		<year>1979 </year>
+		<objectnum>236 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5179 </objectid>
+		<shapelength>0.634619 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS237 </uniqueid>
+		<year>1979 </year>
+		<objectnum>237 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>On 79HS223 skull. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-0.108500 </elevation>
+		<objectid>5180 </objectid>
+		<shapelength>0.571803 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS243 </uniqueid>
+		<year>2000 </year>
+		<objectnum>243 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<remarks>East of Napoleon </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-5.395000 </elevation>
+		<objectid>5195 </objectid>
+		<shapelength>1.489318 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS244 </uniqueid>
+		<year>2000 </year>
+		<objectnum>244 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<completeness>SHAFT </completeness>
+		<remarks>Wierd. Thickere at base. East of Napoleon. </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-5.395000 </elevation>
+		<objectid>5196 </objectid>
+		<shapelength>0.893383 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS001 </uniqueid>
+		<year>2008 </year>
+		<objectnum>1 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>? </datefound>
+		<elevation>-5.380250 </elevation>
+		<objectid>5200 </objectid>
+		<shapelength>3.472213 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS002 </uniqueid>
+		<year>2008 </year>
+		<objectnum>2 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>? </datefound>
+		<elevation>-5.380250 </elevation>
+		<objectid>5201 </objectid>
+		<shapelength>0.564048 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>95HS032 </uniqueid>
+		<year>1995 </year>
+		<objectnum>32 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PC </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>1995 </datefound>
+		<elevation>-5.464250 </elevation>
+		<objectid>5202 </objectid>
+		<shapelength>2.105274 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS196 </uniqueid>
+		<year>1979 </year>
+		<objectnum>196 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>NEURAL ARCH </subelement>
+		<completeness>PC </completeness>
+		<expside>CAUDAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.437250 </elevation>
+		<objectid>5203 </objectid>
+		<shapelength>4.214665 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>07HS032 </uniqueid>
+		<year>2007 </year>
+		<objectnum>32 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon.  Middle section of shaft removed at unknown date. </remarks>
+		<datefound>2007 </datefound>
+		<elevation>-5.437250 </elevation>
+		<objectid>5204 </objectid>
+		<shapelength>1.687977 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS003 </uniqueid>
+		<year>2008 </year>
+		<objectnum>3 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>? </datefound>
+		<elevation>-5.437250 </elevation>
+		<removed>8/19/2008 </removed>
+		<removedby>Scott Allen </removedby>
+		<objectid>5211 </objectid>
+		<shapelength>0.876214 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS004 </uniqueid>
+		<year>2008 </year>
+		<objectnum>4 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>? </datefound>
+		<elevation>-5.437250 </elevation>
+		<removed>8/19/2008 </removed>
+		<removedby>Scott Allen </removedby>
+		<objectid>5212 </objectid>
+		<shapelength>2.286669 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS249 </uniqueid>
+		<year>2000 </year>
+		<objectnum>249 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>PE </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-5.496500 </elevation>
+		<objectid>5213 </objectid>
+		<shapelength>5.523811 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS215 </uniqueid>
+		<year>1979 </year>
+		<objectnum>215 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.496500 </elevation>
+		<objectid>5214 </objectid>
+		<shapelength>1.951868 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS152 </uniqueid>
+		<year>2000 </year>
+		<objectnum>152 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-5.496500 </elevation>
+		<objectid>5215 </objectid>
+		<shapelength>4.494610 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS005 </uniqueid>
+		<year>2008 </year>
+		<objectnum>5 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>? </datefound>
+		<elevation>-5.496500 </elevation>
+		<objectid>5216 </objectid>
+		<shapelength>0.472941 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS006 </uniqueid>
+		<year>2008 </year>
+		<objectnum>6 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>? </datefound>
+		<elevation>-5.496500 </elevation>
+		<objectid>5217 </objectid>
+		<shapelength>0.192619 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>95HS033 </uniqueid>
+		<year>1995 </year>
+		<objectnum>33 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>1995 </datefound>
+		<elevation>-5.432500 </elevation>
+		<objectid>5218 </objectid>
+		<shapelength>1.169752 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS007 </uniqueid>
+		<year>2008 </year>
+		<objectnum>7 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon.  Currently covered in matrix and glyptol -- unidentifyable. </remarks>
+		<datefound>? </datefound>
+		<elevation>-5.699250 </elevation>
+		<objectid>5219 </objectid>
+		<shapelength>2.452574 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>02HS050 </uniqueid>
+		<year>2002 </year>
+		<objectnum>50 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East of Napoleon </remarks>
+		<datefound>2002 </datefound>
+		<elevation>-5.380250 </elevation>
+		<objectid>5199 </objectid>
+		<shapelength>1.877103 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS155 </uniqueid>
+		<year>2000 </year>
+		<objectnum>155 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>THORACIC </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of spring conduit. </remarks>
+		<datefound>? </datefound>
+		<elevation>-4.880000 </elevation>
+		<objectid>5220 </objectid>
+		<shapelength>2.691291 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS156 </uniqueid>
+		<year>2000 </year>
+		<objectnum>156 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of spring conduit. </remarks>
+		<datefound>? </datefound>
+		<elevation>-4.880000 </elevation>
+		<objectid>5221 </objectid>
+		<shapelength>3.650181 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS157 </uniqueid>
+		<year>2000 </year>
+		<objectnum>157 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>NEURAL ARCH </subelement>
+		<completeness>PC </completeness>
+		<expside>CAUDAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of spring conduit. </remarks>
+		<datefound>? </datefound>
+		<elevation>-4.880000 </elevation>
+		<objectid>5222 </objectid>
+		<shapelength>1.252151 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS158 </uniqueid>
+		<year>2000 </year>
+		<objectnum>158 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of spring conduit. </remarks>
+		<datefound>? </datefound>
+		<elevation>-4.880000 </elevation>
+		<objectid>5223 </objectid>
+		<shapelength>0.816978 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS159 </uniqueid>
+		<year>2000 </year>
+		<objectnum>159 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of spring conduit. </remarks>
+		<datefound>? </datefound>
+		<elevation>-4.880000 </elevation>
+		<objectid>5224 </objectid>
+		<shapelength>1.681174 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS202 </uniqueid>
+		<year>1979 </year>
+		<objectnum>202 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>THORACIC </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>West of spring conduit area. </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.227000 </elevation>
+		<objectid>5225 </objectid>
+		<shapelength>1.819506 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS059 </uniqueid>
+		<year>2004 </year>
+		<objectnum>59 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit.  First or second rib. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.529000 </elevation>
+		<objectid>5226 </objectid>
+		<shapelength>1.847683 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS058 </uniqueid>
+		<year>2004 </year>
+		<objectnum>58 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.193750 </elevation>
+		<objectid>5227 </objectid>
+		<shapelength>0.808823 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS064 </uniqueid>
+		<year>2004 </year>
+		<objectnum>64 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>VERTEBRAL EPIPHYSIS </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.620500 </elevation>
+		<objectid>5228 </objectid>
+		<shapelength>0.445563 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>95HS024 </uniqueid>
+		<year>1995 </year>
+		<objectnum>24 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>1995 </datefound>
+		<elevation>-5.837500 </elevation>
+		<objectid>5229 </objectid>
+		<shapelength>0.471022 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS055 </uniqueid>
+		<year>2004 </year>
+		<objectnum>55 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.837500 </elevation>
+		<objectid>5230 </objectid>
+		<shapelength>0.902293 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS056 </uniqueid>
+		<year>2004 </year>
+		<objectnum>56 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.837500 </elevation>
+		<objectid>5231 </objectid>
+		<shapelength>0.476212 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>94HS051 </uniqueid>
+		<year>1994 </year>
+		<objectnum>51 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>LUMBAR </subelement>
+		<completeness>CO </completeness>
+		<expside>CRANIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>1994 </datefound>
+		<elevation>-5.837500 </elevation>
+		<objectid>5232 </objectid>
+		<shapelength>4.074988 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>93HS062 </uniqueid>
+		<year>1993 </year>
+		<objectnum>62 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>SPINOUS PROCESS </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>1993 </datefound>
+		<elevation>-4.965500 </elevation>
+		<objectid>5233 </objectid>
+		<shapelength>4.053996 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>93HS064 </uniqueid>
+		<year>1993 </year>
+		<objectnum>64 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<completeness>PE </completeness>
+		<expside>CAUDAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit.  Near 93HS063 scapula. </remarks>
+		<datefound>1993 </datefound>
+		<elevation>-4.965500 </elevation>
+		<objectid>5235 </objectid>
+		<shapelength>1.799437 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>93HS063 </uniqueid>
+		<year>1993 </year>
+		<objectnum>63 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULAR EPIPHYSIS </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit.  Near 93HS064 scapula. </remarks>
+		<datefound>1993 </datefound>
+		<elevation>-4.965500 </elevation>
+		<objectid>5320 </objectid>
+		<shapelength>6.914513 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>93HS031 </uniqueid>
+		<year>1993 </year>
+		<objectnum>31 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spirng conduit.  Bear / Lion canine marks. </remarks>
+		<datefound>1993 </datefound>
+		<elevation>-5.124250 </elevation>
+		<objectid>5321 </objectid>
+		<shapelength>1.880172 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS088 </uniqueid>
+		<year>2004 </year>
+		<objectnum>88 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.124250 </elevation>
+		<objectid>5322 </objectid>
+		<shapelength>0.551396 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>03HS036 </uniqueid>
+		<year>2003 </year>
+		<objectnum>36 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>3 </element>
+		<subelement>MANDIBLE UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Northwest of spring conduit. </remarks>
+		<datefound>2003 </datefound>
+		<elevation>-5.218250 </elevation>
+		<objectid>5324 </objectid>
+		<shapelength>11.866452 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS065 </uniqueid>
+		<year>2005 </year>
+		<objectnum>65 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Between Beauty and observation point.  Frequently kicked bone. </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-5.199000 </elevation>
+		<objectid>5325 </objectid>
+		<shapelength>1.761196 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS069 </uniqueid>
+		<year>2005 </year>
+		<objectnum>77 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Between Beauty and Observation Area </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-4.760750 </elevation>
+		<objectid>5326 </objectid>
+		<shapelength>2.062378 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS077 </uniqueid>
+		<year>2005 </year>
+		<objectnum>69 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Between Beauty and Observation Area </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-4.760750 </elevation>
+		<objectid>5330 </objectid>
+		<shapelength>1.079430 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS072 </uniqueid>
+		<year>2006 </year>
+		<objectnum>72 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of observation area </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-5.069000 </elevation>
+		<objectid>5331 </objectid>
+		<shapelength>0.406696 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>03HS010 </uniqueid>
+		<year>2003 </year>
+		<objectnum>10 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of observation area </remarks>
+		<datefound>2003 </datefound>
+		<elevation>-5.069000 </elevation>
+		<objectid>5332 </objectid>
+		<shapelength>2.965568 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>02HS023 </uniqueid>
+		<year>2002 </year>
+		<objectnum>23 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of observation area </remarks>
+		<datefound>2002 </datefound>
+		<elevation>-4.188000 </elevation>
+		<objectid>5334 </objectid>
+		<shapelength>7.811614 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS038 </uniqueid>
+		<year>2005 </year>
+		<objectnum>38 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>VERTEBRA UNDIFFERENTIATED </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of CP7 </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-2.508750 </elevation>
+		<objectid>5336 </objectid>
+		<shapelength>1.863152 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS037 </uniqueid>
+		<year>2005 </year>
+		<objectnum>37 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of CP7 </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-2.508750 </elevation>
+		<objectid>5337 </objectid>
+		<shapelength>0.726268 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>02HS034 </uniqueid>
+		<year>2002 </year>
+		<objectnum>34 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>3 </element>
+		<subelement>MANDIBLE UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of CP7. Young animal. </remarks>
+		<datefound>2002 </datefound>
+		<elevation>-2.508750 </elevation>
+		<objectid>5338 </objectid>
+		<shapelength>7.875651 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS069 </uniqueid>
+		<year>2004 </year>
+		<objectnum>69 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Napoleon's skull </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.814000 </elevation>
+		<objectid>5339 </objectid>
+		<shapelength>0.519262 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS124 </uniqueid>
+		<year>2006 </year>
+		<objectnum>124 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PC </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.574250 </elevation>
+		<objectid>5340 </objectid>
+		<shapelength>0.275579 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS127 </uniqueid>
+		<year>2006 </year>
+		<objectnum>127 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<portion>PROXIMAL </portion>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.574250 </elevation>
+		<objectid>5341 </objectid>
+		<shapelength>0.922809 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS145 </uniqueid>
+		<year>2006 </year>
+		<objectnum>145 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>4 </element>
+		<subelement>MANDIBULAR UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.574250 </elevation>
+		<objectid>5342 </objectid>
+		<shapelength>3.732669 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS153 </uniqueid>
+		<year>2006 </year>
+		<objectnum>153 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>VERTEBRA UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.574250 </elevation>
+		<objectid>5343 </objectid>
+		<shapelength>0.714136 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS172 </uniqueid>
+		<year>2006 </year>
+		<objectnum>172 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<portion>MEDIAL </portion>
+		<completeness>PC </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.574250 </elevation>
+		<objectid>5344 </objectid>
+		<shapelength>3.069054 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS180 </uniqueid>
+		<year>2006 </year>
+		<objectnum>180 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>15 </element>
+		<subelement>ASTRAGALUS </subelement>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.572500 </elevation>
+		<objectid>5345 </objectid>
+		<shapelength>1.662405 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS125 </uniqueid>
+		<year>2006 </year>
+		<objectnum>125 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PC </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.321750 </elevation>
+		<objectid>5346 </objectid>
+		<shapelength>3.267028 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS126 </uniqueid>
+		<year>2006 </year>
+		<objectnum>126 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.321750 </elevation>
+		<objectid>5347 </objectid>
+		<shapelength>0.967569 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>78HS123 </uniqueid>
+		<year>1978 </year>
+		<objectnum>123 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>SW. of Beauty </remarks>
+		<datefound>1978 </datefound>
+		<elevation>-4.249000 </elevation>
+		<objectid>5348 </objectid>
+		<shapelength>11.569407 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS262 </uniqueid>
+		<year>1979 </year>
+		<objectnum>262 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<portion>MEDIAL </portion>
+		<completeness>PE </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S. of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.551500 </elevation>
+		<objectid>5349 </objectid>
+		<shapelength>9.997402 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS264 </uniqueid>
+		<year>1979 </year>
+		<objectnum>264 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>HUMERUS </subelement>
+		<side>RIGHT </side>
+		<portion>VENTRAL </portion>
+		<completeness>PE </completeness>
+		<expside>VENTRAL </expside>
+		<articulate>79HS259 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S. of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.551500 </elevation>
+		<objectid>5351 </objectid>
+		<shapelength>1.299625 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS259 </uniqueid>
+		<year>1979 </year>
+		<objectnum>259 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>ULNA </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>CRANIAL </expside>
+		<articulate>79HS259 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S. of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.551500 </elevation>
+		<objectid>5352 </objectid>
+		<shapelength>18.867844 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS260 </uniqueid>
+		<year>1979 </year>
+		<objectnum>260 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>RADIUS </subelement>
+		<side>RIGHT </side>
+		<completeness>PE </completeness>
+		<expside>CRANIAL </expside>
+		<articulate>79HS259 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S. of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.551500 </elevation>
+		<objectid>5353 </objectid>
+		<shapelength>8.629441 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS263 </uniqueid>
+		<year>1979 </year>
+		<objectnum>263 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>1 </element>
+		<subelement>NULL </subelement>
+		<side>RIGHT </side>
+		<completeness>PE </completeness>
+		<expside>VENTRAL </expside>
+		<articulate>79HS259 </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S. of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.551500 </elevation>
+		<objectid>5358 </objectid>
+		<shapelength>0.749349 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS043 </uniqueid>
+		<year>2006 </year>
+		<objectnum>43 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>HUMERUS </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>CRANIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S. of Napoleon, E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-5.551500 </elevation>
+		<objectid>5359 </objectid>
+		<shapelength>15.746183 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS044 </uniqueid>
+		<year>2006 </year>
+		<objectnum>44 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<completeness>CO </completeness>
+		<expside>CRANIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S. of Napoleon, E. of Beauty </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-5.543750 </elevation>
+		<objectid>5360 </objectid>
+		<shapelength>3.348904 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>85HS044 </uniqueid>
+		<year>1985 </year>
+		<objectnum>44 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>LUMBAR </subelement>
+		<side>LEFT </side>
+		<completeness>CO </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S. of Napoleon, E. of Beauty </remarks>
+		<datefound>1985 </datefound>
+		<elevation>-5.543750 </elevation>
+		<objectid>5361 </objectid>
+		<shapelength>3.086915 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS007 </uniqueid>
+		<year>2005 </year>
+		<objectnum>7 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>FEMORAL BALL </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>SW. of Beauty </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-5.481250 </elevation>
+		<objectid>5362 </objectid>
+		<shapelength>4.395992 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS047b </uniqueid>
+		<year>2005 </year>
+		<objectnum>47 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PC </completeness>
+		<articulate>05HS047a </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>SW. of Beauty </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-5.481250 </elevation>
+		<objectid>5363 </objectid>
+		<shapelength>0.683551 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS047a </uniqueid>
+		<year>2005 </year>
+		<objectnum>47 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PC </completeness>
+		<articulate>05HS047a </articulate>
+		<gender>UNDESIGNATED </gender>
+		<remarks>SW. of Beauty </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-5.481250 </elevation>
+		<objectid>5364 </objectid>
+		<shapelength>0.182718 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>86HS036 </uniqueid>
+		<year>1986 </year>
+		<objectnum>36 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>SE of Beauty </remarks>
+		<datefound>1986 </datefound>
+		<elevation>-3.401750 </elevation>
+		<objectid>5365 </objectid>
+		<shapelength>49.102929 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS217 </uniqueid>
+		<year>1979 </year>
+		<objectnum>217 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Beauty </remarks>
+		<datefound>1997 </datefound>
+		<elevation>-4.473500 </elevation>
+		<objectid>5366 </objectid>
+		<shapelength>37.782102 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS249a </uniqueid>
+		<year>1979 </year>
+		<objectnum>249 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<articulate>79HS249a </articulate>
+		<gender>MALE </gender>
+		<remarks>Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.379500 </elevation>
+		<objectid>5367 </objectid>
+		<shapelength>52.158236 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS249b </uniqueid>
+		<year>1979 </year>
+		<objectnum>249 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>3 </element>
+		<subelement>MANDIBLE UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>LATERAL </expside>
+		<articulate>79HS249a </articulate>
+		<gender>MALE </gender>
+		<remarks>Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.379500 </elevation>
+		<objectid>5368 </objectid>
+		<shapelength>17.149512 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS154 </uniqueid>
+		<year>2000 </year>
+		<objectnum>154 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>CENTRUM </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>ESE of Napoleon; unsure of exposed side (caudal?) </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-5.425750 </elevation>
+		<objectid>5369 </objectid>
+		<shapelength>1.854485 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS265 </uniqueid>
+		<year>1979 </year>
+		<objectnum>265 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>SE of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.425750 </elevation>
+		<objectid>5370 </objectid>
+		<shapelength>35.612884 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>79HS203 </uniqueid>
+		<year>1979 </year>
+		<objectnum>203 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>S of Napoleon </remarks>
+		<datefound>1979 </datefound>
+		<elevation>-5.425750 </elevation>
+		<objectid>5371 </objectid>
+		<shapelength>29.939210 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>76HS247 </uniqueid>
+		<year>1976 </year>
+		<objectnum>247 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>10 </element>
+		<subelement>SCAPULA UNDIFFERENTIATED </subelement>
+		<side>LEFT </side>
+		<portion>CAUDAL </portion>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>W. of Beast (Winnie); unsure of side; catalogue # unsure </remarks>
+		<datefound>1976 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5372 </objectid>
+		<shapelength>4.746634 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>77HS147 </uniqueid>
+		<year>1977 </year>
+		<objectnum>147 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>2 </element>
+		<subelement>SKULL UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Beast (Winnie) </remarks>
+		<datefound>1977 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5373 </objectid>
+		<shapelength>52.421837 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>77HS109 </uniqueid>
+		<year>1977 </year>
+		<objectnum>109 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>W. of Beast (Winnie) (Additional #: 00HS282) </remarks>
+		<datefound>1977 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5374 </objectid>
+		<shapelength>14.887985 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>77HS150 </uniqueid>
+		<year>1977 </year>
+		<objectnum>150 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>2 </element>
+		<portion>CAUDAL </portion>
+		<completeness>PC </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beast (Winnie); Grendel associated w/ M. columbi tooth (08HS012) </remarks>
+		<datefound>1977 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5375 </objectid>
+		<shapelength>18.225981 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS206 </uniqueid>
+		<year>2000 </year>
+		<objectnum>206 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>2 </element>
+		<subelement>ALVEOLI </subelement>
+		<side>LEFT </side>
+		<portion>CRANIAL </portion>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beast (Winnie); alveoli w/ 1 visible tusk </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5376 </objectid>
+		<shapelength>15.347651 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>86HS040 </uniqueid>
+		<year>1986 </year>
+		<objectnum>40 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>ULNA </subelement>
+		<side>LEFT </side>
+		<completeness>PC </completeness>
+		<expside>CRANIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>W. of Beast (Winnie) </remarks>
+		<datefound>1986 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5377 </objectid>
+		<shapelength>6.521423 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>00HS265 </uniqueid>
+		<year>2000 </year>
+		<objectnum>265 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>SPINOUS PROCESS </subelement>
+		<completeness>PC </completeness>
+		<expside>CAUDAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beast (Winnie) </remarks>
+		<datefound>2000 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5384 </objectid>
+		<shapelength>3.086144 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS008 </uniqueid>
+		<year>2008 </year>
+		<objectnum>8 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>3 </element>
+		<subelement>MANDIBLE UNDIFFERENTIATED </subelement>
+		<completeness>CO </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>SE. of Beast (Winnie) </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5386 </objectid>
+		<shapelength>9.693959 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS009 </uniqueid>
+		<year>2008 </year>
+		<objectnum>9 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<side>LEFT </side>
+		<portion>PROXIMAL </portion>
+		<completeness>PE </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beast (Winnie) </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5387 </objectid>
+		<shapelength>9.556600 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>76HS176 </uniqueid>
+		<year>1976 </year>
+		<objectnum>176 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PC </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>W. of Beast (Winnie); munged to hell </remarks>
+		<datefound>1976 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5388 </objectid>
+		<shapelength>7.282314 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS011 </uniqueid>
+		<year>2008 </year>
+		<objectnum>11 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>4 </element>
+		<subelement>TUSK </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>W. of Beast (Winnie); little tusk in x-section </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-2.810830 </elevation>
+		<objectid>5389 </objectid>
+		<shapelength>1.813030 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS012 </uniqueid>
+		<year>2008 </year>
+		<objectnum>12 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>4 </element>
+		<subelement>MAXILLARY UNDIFFERENTIATED </subelement>
+		<portion>VENTRAL </portion>
+		<completeness>PE </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>E. of Beast (Winnie): associated w/ Grendel (77HS150); nonvisible in overhead photography, hence small representation in map </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-8.810830 </elevation>
+		<objectid>5390 </objectid>
+		<shapelength>0.134360 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS136 </uniqueid>
+		<year>2006 </year>
+		<objectnum>136 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Extreme East End, under walkway </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.463250 </elevation>
+		<objectid>5391 </objectid>
+		<shapelength>3.048422 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>93HS016 </uniqueid>
+		<year>1993 </year>
+		<objectnum>16 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>LUMBAR </subelement>
+		<completeness>CO </completeness>
+		<expside>CAUDAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon, by spring conduit. </remarks>
+		<datefound>1993 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5392 </objectid>
+		<shapelength>4.312454 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>93HS023 </uniqueid>
+		<year>1993 </year>
+		<objectnum>23 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<subelement>LUMBAR </subelement>
+		<completeness>CO </completeness>
+		<expside>CAUDAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon, badly eroded, cancelous bone visible </remarks>
+		<datefound>1993 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5393 </objectid>
+		<shapelength>3.633647 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>93HS032 </uniqueid>
+		<year>1993 </year>
+		<objectnum>32 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>11 </element>
+		<subelement>PELVIS UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<portion>DISTAL </portion>
+		<completeness>PE </completeness>
+		<expside>VENTRAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon </remarks>
+		<datefound>1993 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5394 </objectid>
+		<shapelength>9.966193 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>04HS091 </uniqueid>
+		<year>2004 </year>
+		<objectnum>91 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>6 </element>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon, by spring conduit. </remarks>
+		<datefound>2004 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5395 </objectid>
+		<shapelength>2.475910 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS010 </uniqueid>
+		<year>2005 </year>
+		<objectnum>10 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon, by spring conduit. </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5396 </objectid>
+		<shapelength>0.246052 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>05HS105 </uniqueid>
+		<year>2005 </year>
+		<objectnum>105 </objectnum>
+		<previous>P </previous>
+		<taxon>MAMMUTHUS COLUMBI </taxon>
+		<element>4 </element>
+		<subelement>TOOTH UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<expside>MEDIAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon, by spring conduit. </remarks>
+		<datefound>2005 </datefound>
+		<elevation>-4.843500 </elevation>
+		<removed>8/19/2008 </removed>
+		<removedby>Scott Allen </removedby>
+		<objectid>5397 </objectid>
+		<shapelength>0.926286 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS010 </uniqueid>
+		<year>2008 </year>
+		<objectnum>10 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>12 </element>
+		<subelement>LEG BONE UNDIFFERENTIATED </subelement>
+		<portion>DISTAL </portion>
+		<completeness>PE </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon, by spring conduit. </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5398 </objectid>
+		<shapelength>5.053415 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS013 </uniqueid>
+		<year>2008 </year>
+		<objectnum>13 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>SHAFT </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon, by spring conduit. </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5399 </objectid>
+		<shapelength>1.430607 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS015 </uniqueid>
+		<year>2008 </year>
+		<objectnum>15 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>0 </element>
+		<subelement>NULL </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East End; east of Napoleon, by spring conduit. </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5400 </objectid>
+		<shapelength>0.334851 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS018 </uniqueid>
+		<year>2008 </year>
+		<objectnum>18 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>3 </element>
+		<subelement>MANDIBLE UNDIFFERENTIATED </subelement>
+		<side>RIGHT </side>
+		<portion>DORSAL </portion>
+		<completeness>PC </completeness>
+		<expside>DORSAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East side of Napoleon </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-4.843500 </elevation>
+		<objectid>5401 </objectid>
+		<shapelength>0.999646 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS019 </uniqueid>
+		<year>2008 </year>
+		<objectnum>19 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>VERTEBRAL DISC </subelement>
+		<completeness>PC </completeness>
+		<expside>LATERAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>East side; east of Napoleon. </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-5.134400 </elevation>
+		<objectid>5402 </objectid>
+		<shapelength>0.302329 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS135 </uniqueid>
+		<year>2006 </year>
+		<objectnum>135 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>7 </element>
+		<subelement>SPINOUS PROCESS </subelement>
+		<portion>DORSAL </portion>
+		<completeness>PC </completeness>
+		<expside>CAUDAL </expside>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Extreme east end; under walkway (Station One) </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.463250 </elevation>
+		<objectid>5403 </objectid>
+		<shapelength>1.769965 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>06HS138 </uniqueid>
+		<year>2006 </year>
+		<objectnum>138 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>11 </element>
+		<subelement>PELVIS UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Extreme east end; beneath walkway (Station One) </remarks>
+		<datefound>2006 </datefound>
+		<elevation>-4.463250 </elevation>
+		<objectid>5404 </objectid>
+		<shapelength>3.920752 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS029 </uniqueid>
+		<year>2008 </year>
+		<objectnum>29 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Extreme east end under walkway, remaining part of previous removed bone (Station One) </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-4.463250 </elevation>
+		<objectid>5405 </objectid>
+		<shapelength>0.329090 </shapelength>
+	</bonerec>
+	<bonerec>
+		<uniqueid>08HS028 </uniqueid>
+		<year>2008 </year>
+		<objectnum>28 </objectnum>
+		<previous>P </previous>
+		<taxon>UNIDENTIFIED MAMMOTH </taxon>
+		<element>9 </element>
+		<subelement>RIB UNDIFFERENTIATED </subelement>
+		<completeness>PC </completeness>
+		<gender>UNDESIGNATED </gender>
+		<remarks>Extreme east end under walkway (Station One) </remarks>
+		<datefound>2008 </datefound>
+		<elevation>-4.463250 </elevation>
+		<objectid>5406 </objectid>
+		<shapelength>0.788107 </shapelength>
+	</bonerec>
+</xml>

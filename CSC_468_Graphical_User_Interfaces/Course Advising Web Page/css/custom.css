@@ -1,0 +1,147 @@
+/* Header Information */
+.header {
+	margin-top: 3em;
+	text-align: center;
+}
+
+.header img {
+	width: 200px;
+	height: 200px;
+}
+
+/* Main Body of HTML */
+html {
+	background-color: #fcfcfc;
+}
+
+.main {
+	margin-top: 5%;
+}
+
+.main h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+
+/* Put a spacer at the bottom of the page so the submit button isn't right up against the screen */ 
+#bodyContainer::after { 
+    height: 100px;
+}
+
+#submitButton {
+	margin-bottom: 115px;
+}
+
+/* Images */
+img {
+	border-radius: 10px;
+}
+
+/* Toaster (show toast style messages like on android) */
+/* Credit to https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_snackbar */
+#toaster {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+#toaster.toast {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 1.5s;
+    animation: fadein 0.5s, fadeout 0.5s 1.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;} 
+    to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {bottom: 30px; opacity: 1;} 
+    to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
+
+/* Progress Bar */
+
+.progressBar {
+	position:relative;
+	display:block;
+	margin-bottom:1em;
+	width:100%;
+
+	background: #fff;
+
+	/* Border */
+	border-style: solid;
+	border-color: rgba(193, 168, 104, 1);
+	border-width: medium;
+
+	height:25px;
+
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+
+	-webkit-transition:0.4s linear;
+	-moz-transition:0.4s linear;
+	-ms-transition:0.4s linear;
+	-o-transition:0.4s linear;
+	transition:0.4s linear;
+}
+
+.progressBarBar {
+	height:100%;
+	width:0px;
+	background-color:rgba(4, 47, 100, .85);
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+
+/* Put things where need to be */
+.rightside {
+	right: 0px;
+	position: absolute;
+}
+
+.leftside {
+	left: 0px;
+	position: absolute;
+}
+
+.top {
+	margin-top: -37px;
+}
+
+.centerText {
+	text-align: center;
+}
+
+.rightText {
+	text-align: right;
+}
+
+/* Rotating the plus signs for our class entry page */
+.rotate {
+	-webkit-transform: rotate(90deg);
+	transform : rotate(90deg);
+}

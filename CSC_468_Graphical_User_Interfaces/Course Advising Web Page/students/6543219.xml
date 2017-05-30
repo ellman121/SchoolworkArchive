@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE student SYSTEM "student.dtd"><student isActive = "yes"><id>6543219</id>
+                                <gpa>0</gpa>
+                                <major_gpa>0</major_gpa>
+                                <completed_credits>0</completed_credits>
+                                <csc_credits>0</csc_credits>
+                                <courses><course>
+                                            <prefix>CSC</prefix>
+                                            <number>110</number>
+                                            <name>Survey of Computer Science and Mathematics</name>
+                                            <credits>1</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>150</number>
+                                            <name>Computer Science 1</name>
+                                            <credits>2</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>250</number>
+                                            <name>Computer Science 2</name>
+                                            <credits>4</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>251</number>
+                                            <name>Finite Structures</name>
+                                            <credits>4</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>300</number>
+                                            <name>Data Structures</name>
+                                            <credits>4</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>314</number>
+                                            <name>Assembly Language</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>317</number>
+                                            <name>Computer Organization and Architecture</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>372</number>
+                                            <name>Analysis of Algorithms</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>456</number>
+                                            <name>Operating Systems</name>
+                                            <credits>4</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>461</number>
+                                            <name>Programming Languages</name>
+                                            <credits>4</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>464</number>
+                                            <name>Senior Design I</name>
+                                            <credits>2</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>465</number>
+                                            <name>Senior Design II</name>
+                                            <credits>2</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>468</number>
+                                            <name>Graphical User Interface Programming</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>470</number>
+                                            <name>Software Engineering</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>CSC</prefix>
+                                            <number>484</number>
+                                            <name>Database Management Systems</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>PHYS</prefix>
+                                            <number>211</number>
+                                            <name>University Physics I</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>MATH</prefix>
+                                            <number>123</number>
+                                            <name>Calculus I</name>
+                                            <credits>4</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>MATH</prefix>
+                                            <number>125</number>
+                                            <name>Calculus II</name>
+                                            <credits>4</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>MATH</prefix>
+                                            <number>225</number>
+                                            <name>Calculus III</name>
+                                            <credits>4</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>MATH</prefix>
+                                            <number>315</number>
+                                            <name>Linear Algebra</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>MATH</prefix>
+                                            <number>381</number>
+                                            <name>Introduction to Probability and Statistics</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>ENGL</prefix>
+                                            <number>101</number>
+                                            <name>Composition I</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>ENGL</prefix>
+                                            <number>279</number>
+                                            <name>Technical Communications I</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course><course>
+                                            <prefix>ENGL</prefix>
+                                            <number>289</number>
+                                            <name>Technical Communications II</name>
+                                            <credits>3</credits>
+                                            <grade></grade>
+                                        </course></courses>
+                        </student>

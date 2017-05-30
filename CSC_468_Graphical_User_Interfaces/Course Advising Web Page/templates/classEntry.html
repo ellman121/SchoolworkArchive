@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- include.pug - Includes libraries and stuff-->
+    <!-- UTF-8 is master text encoding-->
+    <meta charset="UTF-8">
+    <!-- CSS Libraries-->
+    <link href="/css/normalize.css" rel="stylesheet">
+    <link href="/css/skeleton.css" rel="stylesheet">
+    <link href="/css/animate.css" rel="stylesheet">
+    <!-- CSS Files-->
+    <link href="/css/custom.css" rel="stylesheet">
+    <link href="/css/loader.css" rel="stylesheet">
+    <!-- Javascript Libraries-->
+    <script src="/js/jquery-2.2.4.min.js"></script>
+    <script src="/js/jquery-pjax.js"></script>
+    <!-- Javascript files-->
+    <script src="/js/app.js"></script>
+    <!-- Show things-->
+    <title>Advisinator</title>
+  </head>
+  <body>
+    <div class="container u-full-width" id="bodyContainer">
+      <section class="header">
+        <h2>Enter the classes you've taken below</h2>
+        <hr>
+        <h5>We have some reference documents here</h5>
+        <div class="reference u-full-width">
+          <p class="four columns centerText"><a href="">Course Checklist</a></p>
+          <p class="four columns centerText"><a href="">General Education Classes</a></p>
+          <p class="four columns centerText"><a href="">Recommended Flowchart</a></p><br>
+        </div>
+      </section>
+      <hr class="u-full-width">
+      <form class="u-full-width" id="classEntryForm" onsubmit="return login()">
+        <div class="section">
+          <h5>Computer Science Core
+            <label class="top leftside" id="CSCorePlus" for="hideCSCore" position="fixed" width="0px;">▶</label>
+          </h5>
+          <input id="hideCSCore" type="checkbox" style="display:none;" data-toggle="fold" checked>
+        </div>
+        <div class="section" id="CSCore">
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc150InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc150InputNumber" type="text" placeholder="150" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc150InputTitle" type="text" placeholder="Computer Programming 1" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc150InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc150InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc250InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc250InputNumber" type="text" placeholder="250" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc250InputTitle" type="text" placeholder="Computer Programming 2" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc250InputCredits" type="text" placeholder="4" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc250InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc300InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc300InputNumber" type="text" placeholder="300" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc300InputTitle" type="text" placeholder="Data Structures" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc300InputCredits" type="text" placeholder="4" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc300InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc314InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc314InputNumber" type="text" placeholder="314" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc314InputTitle" type="text" placeholder="Assembly Language" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc314InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc314InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc317InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc317InputNumber" type="text" placeholder="317" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc317InputTitle" type="text" placeholder="Computer Org and Arch" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc317InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc317InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc372InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc372InputNumber" type="text" placeholder="372" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc372InputTitle" type="text" placeholder="Analysis of Algorithms" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc372InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc372InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc456InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc456InputNumber" type="text" placeholder="456" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc456InputTitle" type="text" placeholder="Operating Systems" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc456InputCredits" type="text" placeholder="4" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc456InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc461InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc461InputNumber" type="text" placeholder="461" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc461InputTitle" type="text" placeholder="Programming Languages" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc461InputCredits" type="text" placeholder="4" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc461InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc464InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc464InputNumber" type="text" placeholder="464" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc464InputTitle" type="text" placeholder="Senior Design 1" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc464InputCredits" type="text" placeholder="2" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc464InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc465InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc465InputNumber" type="text" placeholder="465" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc465InputTitle" type="text" placeholder="Senior Design 2" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc465InputCredits" type="text" placeholder="2" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc465InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc468InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc468InputNumber" type="text" placeholder="468" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc468InputTitle" type="text" placeholder="Graphical User Interfaces" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc468InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc468InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc470InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc470InputNumber" type="text" placeholder="470" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc470InputTitle" type="text" placeholder="Software Engineering" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc470InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc470InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="csc484InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc484InputNumber" type="text" placeholder="484" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="csc484InputTitle" type="text" placeholder="Database Management" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="csc484InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="csc484InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="section u-full-width">
+          <h5>Computer Science Electives
+            <label class="top leftside" id="CSElectivePlus" for="hideCSElective">▶</label>
+          </h5>
+          <input id="hideCSElective" type="checkbox" style="display:none;" data-toggle="fold" checked>
+        </div>
+        <div class="section" id="CSElective">
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect1InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect1InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="cscElect1InputTitle" type="text" placeholder="Course Title">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect1InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="cscElect1InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect2InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect2InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="cscElect2InputTitle" type="text" placeholder="Course Title">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect2InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="cscElect2InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect3InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect3InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="cscElect3InputTitle" type="text" placeholder="Course Title">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect3InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="cscElect3InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect4InputPrefix" type="text" placeholder="CSC" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect4InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="cscElect4InputTitle" type="text" placeholder="Course Title">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="cscElect4InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="cscElect4InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="section u-full-width">
+          <h5>Science Requirements
+            <label class="top leftside" id="SciReqPlus" for="hideSciReq">▶</label>
+          </h5>
+          <input id="hideSciReq" type="checkbox" style="display:none;" data-toggle="fold" checked>
+        </div>
+        <div class="section" id="SciReq">
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="phys211InputPrefix" type="text" placeholder="PHYS" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="phys211InputNumber" type="text" placeholder="211" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="phys211InputTitle" type="text" placeholder="University Physics 1" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="phys211InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="phys211InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="sci1InputPrefix" type="text" placeholder="SCI">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="sci1InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="sci1InputTitle" type="text" placeholder="Science 1">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="sci1InputCredits" type="text" placeholder="3">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="sci1InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="sci1LInputPrefix" type="text" placeholder="SCI">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="sci1LInputNumber" type="text" placeholder="Lab">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="sci1LInputTitle" type="text" placeholder="Science 1 Lab">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="sci1LInputCredits" type="text" placeholder="1">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="sci1LInputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="sci2InputPrefix" type="text" placeholder="SCI">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="sci2InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="sci2InputTitle" type="text" placeholder="Science 2">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="sci2InputCredits" type="text" placeholder="3">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="sci2InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="sci2LInputPrefix" type="text" placeholder="SCI">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="sci2LInputNumber" type="text" placeholder="Lab">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="sci2LInputTitle" type="text" placeholder="Science 2 Lab">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="sci2LInputCredits" type="text" placeholder="1">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="sci2LInputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="section u-full-width">
+          <h5>Mathematics Requirements
+            <label class="top leftside" id="MathReqPlus" for="hideMathReq">▶</label>
+          </h5>
+          <input id="hideMathReq" type="checkbox" style="display:none;" data-toggle="fold" checked>
+        </div>
+        <div class="section" id="MathReq" for="hideMathReq">
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="math123InputPrefix" type="text" placeholder="MATH" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math123InputNumber" type="text" placeholder="123" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="math123InputTitle" type="text" placeholder="Calculus 1" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math123InputCredits" type="text" placeholder="4" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="math123InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="math125InputPrefix" type="text" placeholder="MATH" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math125InputNumber" type="text" placeholder="125" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="math125InputTitle" type="text" placeholder="Calculus 2" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math125InputCredits" type="text" placeholder="4" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="math125InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="math225InputPrefix" type="text" placeholder="MATH" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math225InputNumber" type="text" placeholder="225" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="math225InputTitle" type="text" placeholder="Calculus 3" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math225InputCredits" type="text" placeholder="4" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="math225InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="math315InputPrefix" type="text" placeholder="MATH" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math315InputNumber" type="text" placeholder="315" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="math315InputTitle" type="text" placeholder="Linear Algebra" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math315InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="math315InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="math381InputPrefix" type="text" placeholder="MATH" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math381InputNumber" type="text" placeholder="381" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="math381InputTitle" type="text" placeholder="Probability and Statistics" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="math381InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="math381InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="mathElecInputPrefix" type="text" placeholder="MATH" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="mathElecInputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="mathElecInputTitle" type="text" placeholder="Math Elective">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="mathElecInputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="mathElecInputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="section u-full-width">
+          <h5>Arts / Social Sciences
+            <label class="top leftside" id="GenEdReqPlus" for="hideGenEdReq">▶</label>
+          </h5>
+          <input id="hideGenEdReq" type="checkbox" style="display:none;" data-toggle="fold" checked>
+        </div>
+        <div class="section u-full-width" id="GenEdReq">
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="eng101InputPrefix" type="text" placeholder="ENG" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="eng101InputNumber" type="text" placeholder="101" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="eng101InputTitle" type="text" placeholder="Composition 1" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="eng101InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="eng101InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="eng279InputPrefix" type="text" placeholder="ENG" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="eng279InputNumber" type="text" placeholder="279" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="eng279InputTitle" type="text" placeholder="Technical Communication 1" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="eng279InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="eng279InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="eng289InputPrefix" type="text" placeholder="ENG" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="eng289InputNumber" type="text" placeholder="289" readonly>
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="eng289InputTitle" type="text" placeholder="Technical Communication 2" readonly>
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="eng289InputCredits" type="text" placeholder="3" readonly>
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="eng289InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="gened1InputPrefix" type="text" placeholder="GENED">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened1InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="gened1InputTitle" type="text" placeholder="Social Science 1">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened1InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="gened1InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="gened2InputPrefix" type="text" placeholder="GENED">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened2InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="gened2InputTitle" type="text" placeholder="Social Science 2">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened2InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="gened2InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="gened3InputPrefix" type="text" placeholder="GENED">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened3InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="gened3InputTitle" type="text" placeholder="Arts / Humanities 1">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened3InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="gened3InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="gened4InputPrefix" type="text" placeholder="GENED">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened4InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="gened4InputTitle" type="text" placeholder="Arts / Humanities 2">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened4InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="gened4InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="gened5InputPrefix" type="text" placeholder="GENED">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened5InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="gened5InputTitle" type="text" placeholder="A General Ed Class">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened5InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="gened5InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="gened6InputPrefix" type="text" placeholder="GENED">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened6InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="gened6InputTitle" type="text" value="hello" placeholder="Free Elective 1">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened6InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="gened6InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+          <div class="row">
+            <div class="two columns">
+              <input class="u-full-width" id="gened7InputPrefix" type="text" placeholder="GENED">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened7InputNumber" type="text" placeholder="Number">
+            </div>
+            <div class="four columns">
+              <input class="u-full-width" id="gened7InputTitle" type="text" placeholder="Free Elective 2">
+            </div>
+            <div class="two columns">
+              <input class="u-full-width" id="gened7InputCredits" type="text" placeholder="Credits">
+            </div>
+            <div class="two columns">
+              <select class="u-full-width" id="gened7InputGrade">
+                <option value="" selected>Grade</option>
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+                <option value="D">D</option>
+                <option value="F">F</option>
+                <option value="EX">EX</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="section">
+          <input class="button-primary two columns rightside" id="submitButton" type="submit" value="submit" style="bottom:-27px;">
+        </div>
+      </form>
+      <script>setupClassEntry();</script>
+    </div>
+    <div class="loader" id="loadingAnimationID"></div>
+  </body>
+</html>
