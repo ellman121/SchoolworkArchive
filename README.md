@@ -1,4 +1,4 @@
-# SchoolworkArchive - OPUS IN PROFECTUS
+# SchoolworkArchive
 
 ## This is a collection of all my schoolwork
 
